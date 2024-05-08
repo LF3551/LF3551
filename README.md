@@ -30,3 +30,15 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 - Infrastructure as Code (IaC) tools
 [![My Skills](https://skillicons.dev/icons?i=terraform,ansible)](https://skillicons.dev)
+- Continuous Integration/Continuous Delivery (CI/CD) systems
+[![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+- Version Control Systems (VCS) and Version Management Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+- Cloud Services and Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,openstack,vercel,heroku)](https://skillicons.dev)
+- Databases and Data Storage
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,dynamodb,sqlite,cassandra)](https://skillicons.dev)
+- Artificial Intelligence and Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikkit-learn)](https://skillicons.dev)
+- Blockchain
+[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
