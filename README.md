@@ -38,3 +38,4 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lf3551&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lf3551&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lf3551&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lf3551&theme=dark)
