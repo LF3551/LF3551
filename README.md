@@ -6,14 +6,11 @@ Hello and welcome to my creative corner! I'm Aleksei, a passionate developer and
 
 For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.io), or connect with me via email
 
-
-
-
 ## Strengths 💪
 
-- 🚀 Developer and Researcher specializing in Python and JavaScript, with a solid foundation in TypeScript and site development using React. Experienced in serverless architectures across both GCP and AWS platforms. Proficient in deploying microservices and managing DevOps processes, with practical skills in Solidity for blockchain development.
-- ⏳ In my spare time, I enjoy exploring pet projects using Rust and Go, continually broadening my technical horizons. Additionally, I hold a professional certification as a Data Engineer on GCP, underscoring my deep familiarity with all its services.
-- 💡 This adeptness in a range of technologies from web development to complex backend systems positions me uniquely in the tech industry, ready to tackle challenges and innovate with each project undertaken.
+- 🚀 Developer and researcher specializing in Python and JavaScript, with some experience in TypeScript and website development using React. Experienced in serverless architectures on GCP and AWS platforms. Proficient in deploying microservices and managing DevOps processes, as well as practical skills in Solidity for blockchain development. Also experienced in using EVM.
+
+- ⏳ In my spare time, I enjoy exploring new technologies and experimenting with projects in Rust and Go, expanding my technical horizons. Additionally, I hold a professional Data Engineer certification on the GCP platform, emphasizing my deep familiarity with all its services. Recently, I've also become interested in pre-trained models on Hugging Face and their application in my pet projects.
 
 ## My skills:
 
