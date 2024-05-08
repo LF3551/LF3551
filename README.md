@@ -34,6 +34,7 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 | **AI & Machine Learning**       | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikkit-learn)](https://skillicons.dev) |
 | **Blockchain**                  | [![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev) |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lf3551&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lf3551&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lf3551&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lf3551&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lf3551&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lf3551&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lf3551&theme=dark&utcOffset=8)
