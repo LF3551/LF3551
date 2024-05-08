@@ -19,6 +19,10 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 
 ## My skills:
 - Top programming languages
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,Node.js,ts)](https://skillicons.dev)
 - learning programming languages
 [![My Skills](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
+- web development
+[![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+- frameworks
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
