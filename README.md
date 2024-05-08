@@ -47,7 +47,7 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 
 | Category                        | Skills |
 |---------------------------------|--------|
-| **Top Programming Languages**   | [![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,ts)](https://skillicons.dev) |
+| **Top Programming Languages**   | [![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev) |
 | **Learning Programming**        | [![My Skills](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev) |
 | **Web Development**             | [![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev) |
 | **Frameworks**                  | [![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) |
@@ -55,7 +55,7 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 | **Infrastructure as Code (IaC)** | [![My Skills](https://skillicons.dev/icons?i=terraform,ansible)](https://skillicons.dev) |
 | **CI/CD Systems**               | [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) |
 | **Version Control Systems**     | [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev) |
-| **Cloud Services and Infrastructure** | [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,openstack,vercel,heroku)](https://skillicons.dev) |
+| **Cloud Services and Infrastructure** | [![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure,openstack,vercel,heroku)](https://skillicons.dev) |
 | **Databases and Data Storage**  | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,dynamodb,sqlite,cassandra)](https://skillicons.dev) |
 | **AI & Machine Learning**       | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikkit-learn)](https://skillicons.dev) |
 | **Blockchain**                  | [![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev) |
