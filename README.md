@@ -19,16 +19,6 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,python,go,js,ts,dart" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,apple,windows,linux,vue,nestjs,nodejs,qt,tauri,docker,opencv,pytorch,figma,postman,sqlite,unity,github&perline=9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,ae,au,ps,latex,md&perline=10" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,azure" />
   </a>
 </p>
