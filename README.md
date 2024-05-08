@@ -17,8 +17,4 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 
 - This adeptness in a range of technologies from web development to complex backend systems positions me uniquely in the tech industry, ready to tackle challenges and innovate with each project undertaken.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,azure" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
