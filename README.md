@@ -1,7 +1,5 @@
 ### Hi, I'm Aleksei Aleinikov! 👋
 
-![My Profile](https://img.kingtous.cn/247205aa-163e-4725-8658-8575eafa1886.png)
-
 ## My Intro
 
 Hello and welcome to my creative corner! I'm Aleksei, a passionate developer and innovator based in Thessaloniki, Greece. With a keen focus on merging creativity with technology, I've developed a diverse portfolio of projects ranging from machine learning applications to interactive web services.
