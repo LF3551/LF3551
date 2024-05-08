@@ -17,4 +17,8 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 
 - This adeptness in a range of technologies from web development to complex backend systems positions me uniquely in the tech industry, ready to tackle challenges and innovate with each project undertaken.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## My skills:
+- Top programming languages
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css)](https://skillicons.dev)
+- learning programming languages
+[![My Skills](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
