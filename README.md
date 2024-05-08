@@ -26,3 +26,7 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 [![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 - frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
+- Tools for containerization and orchestration
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+- Infrastructure as Code (IaC) tools
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible)](https://skillicons.dev)
