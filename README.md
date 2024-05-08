@@ -42,3 +42,11 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikkit-learn)](https://skillicons.dev)
 - Blockchain
 [![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
+
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <td>[![My Skills](https://skillicons.dev/icons?i=python,js,Node.js,ts)](https://skillicons.dev)</td>
+  </tr>
+  <!-- Повторите для каждой категории -->
+</table>
