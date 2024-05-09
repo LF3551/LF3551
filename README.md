@@ -10,7 +10,7 @@ For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.i
 
 - 🚀 Developer and researcher specializing in Python and JavaScript, with some experience in TypeScript and website development using React. Experienced in serverless architectures on GCP and AWS platforms. Proficient in deploying microservices and managing DevOps processes, as well as practical skills in Solidity for blockchain development. Also experienced in using EVM.
 
-- ⏳ In my spare time, I enjoy exploring new technologies and experimenting with projects in Rust and Go, expanding my technical horizons. Additionally, I hold a professional Data Engineer certification on the GCP platform, emphasizing my deep familiarity with all its services. Recently, I've also become interested in pre-trained models on Hugging Face and their application in my pet projects.
+- ⏳ In my spare time, I enjoy exploring new technologies and experimenting with projects in Rust and Go, expanding my technical horizons. Additionally, I hold a professional Data Engineer certification on the GCP platform, emphasizing my deep familiarity with all its services, and I am also certified in Azure Data Fundamentals, which underscores my comprehensive knowledge of data services across multiple cloud platforms. Recently, I've also become interested in pre-trained models on Hugging Face and their application in my pet projects.
 
 ## My skills:
 
