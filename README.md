@@ -6,7 +6,7 @@ Hello and welcome to my creative corner! I'm Aleksei, a passionate developer and
 
 For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.io), or connect with me via email
 
-Additionally, I'm actively involved in expanding my skills in cloud technologies, particularly with Google Cloud Platform. You can view my progress and achievements in mastering cloud skills on my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e).
+Since 2022, I have been actively enhancing my expertise in cloud technologies, with a special focus on Google Cloud Platform. You can view my continuous learning journey and various achievements in cloud skills on my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e).
 
 Feel free to reach out or follow my journey as I explore new technologies and take on exciting projects!
 
