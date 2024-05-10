@@ -6,6 +6,10 @@ Hello and welcome to my creative corner! I'm Aleksei, a passionate developer and
 
 For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.io), or connect with me via email
 
+Additionally, I'm actively involved in expanding my skills in cloud technologies, particularly with Google Cloud Platform. You can view my progress and achievements in mastering cloud skills on my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e).
+
+Feel free to reach out or follow my journey as I explore new technologies and take on exciting projects!
+
 ## Strengths 💪
 
 - 🚀 Developer and researcher specializing in Python and JavaScript, with some experience in TypeScript and website development using React. Experienced in serverless architectures on GCP and AWS platforms. Proficient in deploying microservices and managing DevOps processes, as well as practical skills in Solidity for blockchain development. Also experienced in using EVM.
