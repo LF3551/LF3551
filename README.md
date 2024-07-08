@@ -16,6 +16,10 @@ Feel free to reach out or follow my journey as I explore new technologies and ta
 
 - ⏳ In my spare time, I enjoy exploring new technologies and experimenting with projects in Rust and Go, expanding my technical horizons. Additionally, I hold a professional Data Engineer certification on the GCP platform, emphasizing my deep familiarity with all its services, and I am also certified in Azure Data Fundamentals, which underscores my comprehensive knowledge of data services across multiple cloud platforms. Recently, I've also become interested in pre-trained models on Hugging Face and their application in my pet projects.
 
+## New on Patreon
+I've just published my first post on Patreon! Learn more and support me to get early access to my projects and exclusive content. [Read the post on Patreon](https://www.patreon.com/posts/welcome-to-my-107726822?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link).
+
+
 ## My skills:
 
 | Category                        | Skills |
