@@ -24,7 +24,7 @@ I've just published my first post on Patreon! Learn more and support me to get e
 
 | Category                        | Skills |
 |---------------------------------|--------|
-| **💻 Top Programming Languages**   | [![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,ts,swift)](https://skillicons.dev) |
+| **💻 Top Programming Languages**   | [![My Skills](https://skillicons.dev/icons?i=python,nodejs,ts,swift)](https://skillicons.dev) |
 | **📘 Learning Programming**        | [![My Skills](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev) |
 | **🌐 Web Development**             | [![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev) |
 | **🛠️ Frameworks**                  | [![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) |
