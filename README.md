@@ -4,7 +4,7 @@
 
 Hello and welcome to my creative corner! I'm Aleksei, a passionate developer and innovator based in Thessaloniki, Greece. With a keen focus on merging creativity with technology, I've developed a diverse portfolio of projects ranging from machine learning applications to interactive web services.
 
-For a deeper dive into my work, check out [My Portfolio](https://lf3551.github.io), or connect with me via email
+For a deeper dive into my work, check out [My Portfolio](https://www.alekseialeinikov.com), or connect with me via email
 
 Since 2022, I have been actively enhancing my expertise in cloud technologies, with a special focus on Google Cloud Platform. You can view my continuous learning journey and various achievements in cloud skills on my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e).
 
