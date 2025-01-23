@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Hello and welcome to my creative corner! I'm Aleksei, a passionate developer and innovator based in Thessaloniki, Greece. With a keen focus on merging creativity with technology, I've developed a diverse portfolio of projects ranging from machine learning applications to interactive web services.
+Hello and welcome to my creative corner! I'm Aleksei, a passionate developer and innovator with over 10+ years of experience in full-stack development, DevOps automation, and cloud architecture design. Based in Thessaloniki, Greece, I specialize in crafting scalable, efficient, and innovative solutions that bridge the gap between development and operations.
+My expertise includes building interactive web services, optimizing CI/CD pipelines, and creating robust multi-region cloud infrastructures. With a strong foundation in Python, JavaScript, and React, I thrive at delivering seamless systems and user-focused applications.
 
 For a deeper dive into my work, check out [My Portfolio](https://www.alekseialeinikov.com), or connect with me via email
 
@@ -12,9 +13,22 @@ Feel free to reach out or follow my journey as I explore new technologies and ta
 
 ## Strengths 💪
 
-- 🚀 Developer and researcher specializing in Python and JavaScript, with some experience in TypeScript and website development using React. Experienced in serverless architectures on GCP and AWS platforms. Proficient in deploying microservices and managing DevOps processes, as well as practical skills in Solidity for blockchain development. Also experienced in using EVM.
+- 🚀 Proficient in Python and JavaScript, with additional expertise in TypeScript and website development using React. I excel in serverless architectures on GCP and AWS platforms, enabling seamless deployment and scalability of applications. Skilled in deploying microservices, managing DevOps workflows, and utilizing Solidity for blockchain development on EVM platforms.
 
-- ⏳ In my spare time, I enjoy exploring new technologies and experimenting with projects in Rust and Go, expanding my technical horizons. Additionally, I hold a professional Data Engineer certification on the GCP platform, emphasizing my deep familiarity with all its services, and I am also certified in Azure Data Fundamentals, which underscores my comprehensive knowledge of data services across multiple cloud platforms. Recently, I've also become interested in pre-trained models on Hugging Face and their application in my pet projects.
+- 🛠️ Full Stack Development Excellence:
+Designed and developed enterprise-grade applications, achieving a 40% reduction in page load times and significantly improving user engagement and satisfaction.
+
+- ⚙️ DevOps and Automation Mastery:
+Automated CI/CD pipelines using Kubernetes and Terraform, which cut deployment times by 50% while ensuring 99.9% uptime for critical systems. This included optimizing multi-service workflows and building fault-tolerant infrastructures.
+
+- 🏗️ Architectural Visionary:
+Implemented advanced disaster recovery architectures, such as Pilot Light and Warm Standby, reducing recovery times by 50% while maintaining complete data integrity and operational readiness.
+
+- ☁️ Cloud Technology Expertise:
+Engineered multi-region cloud infrastructures leveraging AWS and Google Cloud, reducing operational costs by 30% and improving system reliability across global deployments. Deep familiarity with data services on GCP and Azure, supported by certifications like Google Cloud Data Engineer and Azure Data Fundamentals.
+
+- ⏳ Curiosity-Driven Technologist:
+Passionate about exploring new technologies, including projects in Rust and Swift, as well as experimenting with pre-trained models on Hugging Face for machine learning applications. My constant pursuit of innovation has led me to tackle exciting challenges in both traditional and emerging fields.
 
 ## New on Patreon
 I've just published my first post on Patreon! Learn more and support me to get early access to my projects and exclusive content. [Read the post on Patreon](https://www.patreon.com/posts/welcome-to-my-107726822?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link).
