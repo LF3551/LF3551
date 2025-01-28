@@ -30,8 +30,9 @@ Engineered multi-region cloud infrastructures leveraging AWS and Google Cloud, r
 - ⏳ Curiosity-Driven Technologist:
 Passionate about exploring new technologies, including projects in Rust and Swift, as well as experimenting with pre-trained models on Hugging Face for machine learning applications. My constant pursuit of innovation has led me to tackle exciting challenges in both traditional and emerging fields.
 
-## New on Patreon
-I've just published my first post on Patreon! Learn more and support me to get early access to my projects and exclusive content. [Read the post on Patreon](https://www.patreon.com/posts/welcome-to-my-107726822?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link).
+## 🌟 Buy Me a Coffee
+I've just launched my page on Buy Me a Coffee! If you enjoy my work, you can now support me directly by buying me a coffee. Your contributions will help me continue exploring new technologies, working on exciting projects, and sharing insights with the community.
+👉 [Visit my Buy Me a Coffee page](https://buymeacoffee.com/alekseialej). page to show your support and help fuel my journey! ☕
 
 
 ## My skills:
