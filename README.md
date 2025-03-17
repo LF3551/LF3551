@@ -33,7 +33,7 @@ Passionate about exploring new technologies, including projects in Rust and Swif
 ## 🌟 Support My Work on Buy Me a Coffee!
 I've just launched my page on Buy Me a Coffee! If you enjoy my work, you can now support me directly by buying me a coffee. Your contributions will help me continue exploring new technologies, working on exciting projects, and sharing insights with the community.
 
-👉[Visit my Buy Me a Coffee page](https://buymeacoffee.com/alekseialej) to show your support and help fuel my journey! ☕
+👉[Visit my Buy Me a Coffee page](https://buymeacoffee.com/aleksei_aleinikov) to show your support and help fuel my journey! ☕
 
 
 ## My skills:
