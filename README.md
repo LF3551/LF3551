@@ -44,7 +44,7 @@ If you enjoy my projects, blog posts, or open-source contributions — you can n
 | **💻 Top Programming Languages**   | [![My Skills](https://skillicons.dev/icons?i=python,go,nodejs,ts,swift)](https://skillicons.dev) |
 | **📘 Learning Programming**        | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) |
 | **🌐 Web Development**             | [![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css)](https://skillicons.dev) |
-| **🐳 Containerization & Orchestration** | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) |
+| **🐳 DevOps Engineering** | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,gitlab)](https://skillicons.dev) |
 | **☁️ Cloud Services and Infrastructure** | [![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure,openstack,vercel,heroku)](https://skillicons.dev) |
 | **🗄️ Databases and Data Storage**  | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,dynamodb,sqlite,cassandra)](https://skillicons.dev) |
 | **🧠 AI & Machine Learning**       | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikkit-learn)](https://skillicons.dev) |
