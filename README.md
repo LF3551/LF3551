@@ -8,7 +8,7 @@ In recent years, I’ve shifted from full-stack development toward **DevOps, clo
 
 When I’m not working on infrastructure, I write backend services in **Go**, contribute to full-stack projects with **React & Next.js**, and explore new technologies like **Rust** and **machine learning**.
 
-Check out my [portfolio](https://www.alekseialeinikov.com), my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e), or connect with me if you want to chat about DevOps, cloud, or building reliable systems.
+Check out my [Portfolio](https://www.alekseialeinikov.com), my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e), or connect with me if you want to chat about DevOps, cloud, or building reliable systems.
 
 ---
 
