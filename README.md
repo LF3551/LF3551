@@ -41,9 +41,9 @@ If you enjoy my projects, blog posts, or open-source contributions — you can n
 
 | Category                        | Skills |
 |---------------------------------|--------|
-| **💻 Top Programming Languages**   | [![My Skills](https://skillicons.dev/icons?i=python,nodejs,ts,swift)](https://skillicons.dev) |
-| **📘 Learning Programming**        | [![My Skills](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev) |
-| **🌐 Web Development**             | [![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev) |
+| **💻 Top Programming Languages**   | [![My Skills](https://skillicons.dev/icons?i=python,go,nodejs,ts,swift)](https://skillicons.dev) |
+| **📘 Learning Programming**        | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) |
+| **🌐 Web Development**             | [![My Skills](https://skillicons.dev/icons?i=react,html,css,nextjs)](https://skillicons.dev) |
 | **🛠️ Frameworks**                  | [![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) |
 | **🐳 Containerization & Orchestration** | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) |
 | **🛡️ Infrastructure as Code (IaC)** | [![My Skills](https://skillicons.dev/icons?i=terraform,ansible)](https://skillicons.dev) |
