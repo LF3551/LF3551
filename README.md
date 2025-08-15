@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hey there! I’m Aleksei, a Senior Software & DevOps Engineer with 10+ years of experience blending full-stack development, cloud infrastructure design, and automation. Currently based in Thessaloniki, Greece, I focus on building **resilient, cost-efficient, and scalable systems in the cloud — especially on Google Cloud Platform (GCP)**.
+Hey there! I’m Aleksei, a Senior Software & DevOps Engineer with 11+ years of experience blending full-stack development, cloud infrastructure design, and automation. Currently based in Thessaloniki, Greece, I focus on building **resilient, cost-efficient, and scalable systems in the cloud — especially on Google Cloud Platform (GCP)**.
 
 In recent years, I’ve shifted from full-stack development toward **DevOps, cloud architecture, and platform engineering**, with a strong emphasis on automation, IaC, and observability. I work hands-on with tools like **Kubernetes, Terraform, ArgoCD, GitLab CI/CD**, and design production-grade infrastructure.
 
