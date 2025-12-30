@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Hey there! I’m Aleksei, a Senior Platform/Cloud Engineer (DevOps/SRE) and Senior Software Engineer with 11+ years of experience designing and operating secure, scalable cloud-native platforms and distributed systems. Currently based in Thessaloniki, Greece, I focus on building **reliable, audit-friendly, and security-first cloud platforms** — with deep hands-on experience on **Google Cloud Platform (GCP)** and solid exposure to **AWS/Azure**.
+Hey there! I’m Aleksei, a Senior Platform/Cloud Engineer (DevOps/SRE) and Senior Software Engineer with 11+ years of experience designing and operating secure, scalable cloud-native platforms and distributed systems. Currently based in Thessaloniki, Greece, I focus on building **reliable, audit-friendly, and security-first cloud platforms** - with deep hands-on experience on **Google Cloud Platform (GCP)** and solid exposure to **AWS/Azure**.
 
 I work at the intersection of **software engineering** and **platform engineering**: I build delivery foundations (IaC, CI/CD, GitOps), establish operational standards (runbooks, on-call readiness, incident playbooks), and integrate security controls into delivery workflows (vulnerability management, policy enforcement, secrets management, and secure defaults). My goal is to make platforms **safe to operate at scale**, predictable under change, and easy for teams to use without compromising security or velocity.
 
-I value clean architecture, strong engineering culture, and pragmatic enablement practices — the kind that reduce key-person risk and keep systems maintainable over time.
+I value clean architecture, strong engineering culture, and pragmatic enablement practices - the kind that reduce key-person risk and keep systems maintainable over time.
 
 Check out my [Portfolio](https://www.alekseialeinikov.com), my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e), or connect with me if you want to chat about DevOps, cloud, or building reliable systems.
 
@@ -35,7 +35,7 @@ Check out my [Portfolio](https://www.alekseialeinikov.com), my [Google Cloud Ski
 ---
 
 ## 🌟 Support My Work on Buy Me a Coffee!
-If you enjoy my projects, blog posts, or open-source contributions — you can now support me directly. Every ☕ helps fuel future experiments and community content.
+If you enjoy my projects, blog posts, or open-source contributions - you can now support me directly. Every ☕ helps fuel future experiments and community content.
 
 👉[Visit my Buy Me a Coffee page](https://buymeacoffee.com/aleksei_aleinikov) to show your support and help fuel my journey! ☕
 
