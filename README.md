@@ -50,7 +50,6 @@ If you enjoy my projects, blog posts, or open-source contributions - you can now
 | **☁️ Cloud Services and Infrastructure** | [![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure,openstack,vercel,heroku)](https://skillicons.dev) |
 | **🗄️ Databases and Data Storage**  | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,dynamodb,sqlite,cassandra)](https://skillicons.dev) |
 | **🧠 AI & Machine Learning**       | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikkit-learn)](https://skillicons.dev) |
-| **🔗 Blockchain**                  | [![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev) |
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lf3551&theme=dark)
