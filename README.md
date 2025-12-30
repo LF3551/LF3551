@@ -1,5 +1,3 @@
-### Hi, I'm Aleksei Aleinikov! 👋
-
 ## Introduction
 
 Hey there! I’m Aleksei, a Senior Platform/Cloud Engineer (DevOps/SRE) and Senior Software Engineer with 11+ years of experience designing and operating secure, scalable cloud-native platforms and distributed systems. Currently based in Thessaloniki, Greece, I focus on building **reliable, audit-friendly, and security-first cloud platforms** - with deep hands-on experience on **Google Cloud Platform (GCP)** and solid exposure to **AWS/Azure**.
