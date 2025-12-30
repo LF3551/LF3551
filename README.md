@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Hey there! I’m Aleksei, a Senior Software & DevOps Engineer with 11+ years of experience blending full-stack development, cloud infrastructure design, and automation. Currently based in Thessaloniki, Greece, I focus on building **resilient, cost-efficient, and scalable systems in the cloud — especially on Google Cloud Platform (GCP)**.
+Hey there! I’m Aleksei, a Senior Platform/Cloud Engineer (DevOps/SRE) and Senior Software Engineer with 11+ years of experience designing and operating secure, scalable cloud-native platforms and distributed systems. Currently based in Thessaloniki, Greece, I focus on building **reliable, audit-friendly, and security-first cloud platforms** — with deep hands-on experience on **Google Cloud Platform (GCP)** and solid exposure to **AWS/Azure**.
 
-In recent years, I’ve shifted from full-stack development toward **DevOps, cloud architecture, and platform engineering**, with a strong emphasis on automation, IaC, and observability. I work hands-on with tools like **Kubernetes, Terraform, ArgoCD, GitLab CI/CD**, and design production-grade infrastructure.
+I work at the intersection of **software engineering** and **platform engineering**: I build delivery foundations (IaC, CI/CD, GitOps), establish operational standards (runbooks, on-call readiness, incident playbooks), and integrate security controls into delivery workflows (vulnerability management, policy enforcement, secrets management, and secure defaults). My goal is to make platforms **safe to operate at scale**, predictable under change, and easy for teams to use without compromising security or velocity.
 
-When I’m not working on infrastructure, I write backend services in **Go**, contribute to full-stack projects with **React & Next.js**, and explore new technologies like **Rust** and **machine learning**.
+I value clean architecture, strong engineering culture, and pragmatic enablement practices — the kind that reduce key-person risk and keep systems maintainable over time.
 
 Check out my [Portfolio](https://www.alekseialeinikov.com), my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e), or connect with me if you want to chat about DevOps, cloud, or building reliable systems.
 
@@ -14,20 +14,23 @@ Check out my [Portfolio](https://www.alekseialeinikov.com), my [Google Cloud Ski
 
 ## Strengths 💪
 
-- 🚀 **DevOps & Cloud-Native Engineering**  
-  Built scalable multi-region infrastructure on **GCP**, automated deployments via **GitLab CI**, and integrated observability tooling with **Prometheus, Grafana, and Stackdriver**. Reduced costs by 30% and improved uptime to 99.999%.
+- 🧩 **Platform & Cloud Engineering**
+  Build and operate cloud-native platforms with **Kubernetes**, **Terraform**, and **GitOps**, focusing on secure-by-default foundations, standardization, and smooth environment promotion.
 
-- ⚙️ **Automation-First Mindset**  
-  Used **Terraform**, **Ansible**, and GitOps practices to fully automate deployments and configuration. Enabled auto-scaling, self-healing Kubernetes clusters, and disaster recovery (Warm Standby, Pilot Light).
+- 🔐 **Security-First Delivery**
+  Embed security into the delivery lifecycle: **secrets management**, policy enforcement, vulnerability workflows, and supply-chain hygiene (scanning, SBOM-minded practices, and repeatable controls).
 
-- 🛠️ **Backend & Full Stack Dev**  
-  Strong background in **Python**, **Go**, **Node.js**, and **TypeScript**. Built microservices and APIs, and delivered web apps using **React** and **Next.js** with a focus on performance and UX.
+- 📈 **Reliability & Observability**
+  Design operational visibility with **Prometheus/Grafana/ELK**, define practical SLI/SLO expectations, and improve incident response with actionable alerting and clear runbooks.
 
-- ☁️ **Cloud Expertise**  
-  Deep experience in **Google Cloud Platform**, with hands-on knowledge of AWS and Azure. Skilled in IAM, networking, storage, monitoring, and cost optimization.
+- ⚙️ **Automation & Enablement**
+  Create reusable building blocks (IaC modules, CI templates, deployment patterns) that reduce drift, lower change risk, and help teams ship consistently.
 
-- 🧠 **Tech Explorer**  
-  Constantly learning — exploring **Rust**, **Swift**, and **LLM tools** on Hugging Face. I love diving into new tech and sharing insights via articles and side projects.
+- 🛠️ **Software Engineering Background**
+  Strong foundation in **Python**, **Go**, and **JavaScript/TypeScript** with practical experience building services, automations, and developer-facing tooling.
+
+- ☁️ **Cloud Breadth**
+  Deep GCP experience with hands-on work across multi-region and multi-cloud environments; strong comfort with IAM, networking patterns, secure service exposure, and cost-aware design.
 
 ---
 
