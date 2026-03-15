@@ -1,6 +1,6 @@
 ## Introduction
 
-Hey there! I’m Aleksei, a Senior Platform/Cloud Engineer (DevOps/SRE) and Senior Software Engineer with 11+ years of experience designing and operating secure, scalable cloud-native platforms and distributed systems. Currently based in Thessaloniki, Greece, I focus on building **reliable, audit-friendly, and security-first cloud platforms** - with deep hands-on experience on **Google Cloud Platform (GCP)** and solid exposure to **AWS/Azure**.
+Hey there! I’m Aleksei, a Senior Platform/Cloud Engineer (DevOps/SRE) and Senior Software Engineer with 12+ years of experience designing and operating secure, scalable cloud-native platforms and distributed systems. Currently based in Thessaloniki, Greece, I focus on building **reliable, audit-friendly, and security-first cloud platforms** - with deep hands-on experience on **Google Cloud Platform (GCP)** and solid exposure to **AWS/Azure**.
 
 I work at the intersection of **software engineering** and **platform engineering**: I build delivery foundations (IaC, CI/CD, GitOps), establish operational standards (runbooks, on-call readiness, incident playbooks), and integrate security controls into delivery workflows (vulnerability management, policy enforcement, secrets management, and secure defaults). My goal is to make platforms **safe to operate at scale**, predictable under change, and easy for teams to use without compromising security or velocity.
 
