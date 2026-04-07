@@ -1,8 +1,10 @@
 ## Introduction
 
-Hey there! I’m Aleksei, a Senior Platform/Cloud Engineer (DevOps/SRE) and Senior Software Engineer with 12+ years of experience designing and operating secure, scalable cloud-native platforms and distributed systems. Currently based in Thessaloniki, Greece, I focus on building **reliable, audit-friendly, and security-first cloud platforms** - with deep hands-on experience on **Google Cloud Platform (GCP)** and solid exposure to **AWS/Azure**.
+Hey there! I’m Aleksei, a Senior Cloud / Platform Security Engineer with 12+ years of experience designing, securing, and operating cloud-native platforms and distributed systems in enterprise environments. I build reliable, scalable, and audit-ready platform foundations with a strong focus on Google Cloud, Kubernetes, Terraform, IAM, and DevSecOps, with additional hands-on exposure to AWS and Azure.
 
-I work at the intersection of **software engineering** and **platform engineering**: I build delivery foundations (IaC, CI/CD, GitOps), establish operational standards (runbooks, on-call readiness, incident playbooks), and integrate security controls into delivery workflows (vulnerability management, policy enforcement, secrets management, and secure defaults). My goal is to make platforms **safe to operate at scale**, predictable under change, and easy for teams to use without compromising security or velocity.
+My work sits at the intersection of platform engineering, cloud security, and software engineering. I design and operate secure delivery foundations across Infrastructure as Code, CI/CD, and GitOps; implement IAM and policy controls; strengthen secrets, workload, and network security; and improve operational resilience through observability, incident readiness, and security-by-default standards.
+
+I focus on making platforms safe to operate at scale, predictable under change, and easy for engineering teams to use without compromising security, reliability, or delivery speed. I value clean architecture, strong engineering culture, and pragmatic enablement practices that reduce key-person risk and improve long-term maintainability.
 
 I value clean architecture, strong engineering culture, and pragmatic enablement practices - the kind that reduce key-person risk and keep systems maintainable over time.
 
