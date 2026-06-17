@@ -105,21 +105,11 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 
 ## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->- [Build a Tiny Linux Container without Docker in 2026](https://medium.com/p/ab4b661b8328) <sub>
-_Jul 17, 2026</sub>
-
-- [Einen kleinen Linux-Container ohne Docker bauen 2026](https://medium.com/p/ab4b661b8328) <sub>
-_Jul 17, 2026</sub>
-
-- [I Became a Google Cloud Ambassador — Infrastructure: Here Is What It Actually Takes in 2026](https://www.alekseialeinikov.com/en/blog/google-cloud-ambassador-infrastructure-journey-2026) <sub>
-_Jun 16, 2026</sub>
-
-- [Ich wurde Google Cloud Ambassador — Infrastructure: Was es in 2026 wirklich braucht](https://www.alekseialeinikov.com/de/blog/google-cloud-ambassador-infrastructure-weg-2026) <sub>
-_Jun 16, 2026</sub>
-
-- [Kafka vs Pub/Sub in 2026: When Managed Messaging Saves a Fintech Launch](https://medium.com/p/896fe0a9ae8e) <sub>
-_Jun 15, 2026</sub>
-
+<!-- BLOG-POST-LIST:START -->- [**Build a Tiny Linux Container without Docker in 2026**](https://medium.com/p/ab4b661b8328) &nbsp;·&nbsp; <sub>Jul 17, 2026</sub>
+- [**I Became a Google Cloud Ambassador — Infrastructure: Here Is What It Actually Takes in 2026**](https://www.alekseialeinikov.com/en/blog/google-cloud-ambassador-infrastructure-journey-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
+- [**Kafka vs Pub/Sub in 2026: When Managed Messaging Saves a Fintech Launch**](https://medium.com/p/896fe0a9ae8e) &nbsp;·&nbsp; <sub>Jun 15, 2026</sub>
+- [**LinkedIn Scraper vs. Dataset Marketplace: A Data Engineer&#39;s Honest Review &lpar;2026&rpar;**](https://levelup.gitconnected.com/i-spent-3-days-building-a-linkedin-scraper-then-i-found-the-dataset-already-existed-9e9093504ca1) &nbsp;·&nbsp; <sub>Jun 1, 2026</sub>
+- [**Python Web Scraping Without Proxy Management: Bright Data Web Unlocker API &lpar;2026&rpar;**](https://levelup.gitconnected.com/how-i-scraped-modern-protected-websites-in-python-without-managing-a-single-proxy-2e0f07d30208) &nbsp;·&nbsp; <sub>May 29, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
