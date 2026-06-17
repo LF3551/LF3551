@@ -35,23 +35,38 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 
 ## 💪 Strengths
 
-**🏗️ Platform & Cloud Engineering**
-Build and operate cloud-native platforms on GKE and GCP — secure-by-default foundations, multi-region deployment patterns, GitOps-based promotion workflows, and standardized IaC across environments.
-
-**🔐 Security-First Delivery**
-Zero Trust architecture with Workload Identity Federation, Binary Authorization for supply-chain integrity, Cloud Armor WAF tuning at scale, secrets management, and policy enforcement via OPA/Kyverno.
-
-**📊 Reliability & Observability**
-Practical SLI/SLO design, structured alerting with clear ownership, incident runbooks, and dashboards that surface signal rather than noise.
-
-**⚙️ Automation & Enablement**
-Reusable IaC modules, CI/CD templates, and deployment patterns that reduce drift, lower change risk, and help teams ship without reinventing the wheel.
-
-**🐍 Software Engineering**
-Building internal tooling, security automations, and developer-facing services in Python, Go, and TypeScript — including merged contributions to official Google Cloud open-source repositories.
-
-**☁️ Google Cloud Depth**
-Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, and AI infrastructure on Vertex AI — with 1,000+ hands-on labs and Diamond League status on Cloud Skills Boost.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Platform &amp; Cloud Engineering</h3>
+      Cloud-native platforms on GKE &amp; GCP — secure-by-default foundations, multi-region deployment patterns, GitOps promotion workflows, and standardized IaC across environments.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Security-First Delivery</h3>
+      Zero Trust with Workload Identity Federation, Binary Authorization for supply-chain integrity, Cloud Armor WAF tuning at scale, secrets management, and policy enforcement via OPA/Kyverno.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Reliability &amp; Observability</h3>
+      Practical SLI/SLO design, structured alerting with clear ownership, incident runbooks, and dashboards that surface signal rather than noise.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automation &amp; Enablement</h3>
+      Reusable IaC modules, CI/CD templates, and deployment patterns that reduce drift, lower change risk, and help teams ship without reinventing the wheel.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 Software Engineering</h3>
+      Internal tooling, security automations, and developer-facing services in Python, Go &amp; TypeScript — including merged contributions to official Google Cloud open-source repositories.
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Google Cloud Depth</h3>
+      Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, and AI infrastructure on Vertex AI — with 1,000+ hands-on labs and Diamond League on Cloud Skills Boost.
+    </td>
+  </tr>
+</table>
 
 ---
 
