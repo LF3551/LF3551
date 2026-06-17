@@ -1,12 +1,33 @@
-## Introduction
+<div align="center">
 
-Hey there! I'm Aleksei — a Google Cloud Ambassador — Infrastructure and Senior Platform Security Engineer with 12+ years of experience designing, securing, and operating cloud-native platforms in enterprise environments. 5× Google Cloud Professional certified. I build reliable, scalable, and audit-ready platform foundations with a strong focus on Google Cloud, Kubernetes, Terraform, and IAM, with additional hands-on exposure to AWS and Azure.
+![header](https://capsule-render.vercel.app/api?type=waving&color=4285F4,34A853,FBBC04,EA4335&height=200&section=header&text=Aleksei%20Aleinikov&fontSize=48&fontColor=fff&fontAlignY=35&desc=Google%20Cloud%20Ambassador%20%E2%80%94%20Infrastructure&descSize=18&descAlignY=58&animation=fadeIn)
 
-My work sits at the intersection of platform engineering, cloud security, and software engineering. I design and operate secure delivery foundations across Infrastructure as Code, CI/CD, and GitOps; implement IAM and policy controls; strengthen secrets, workload, and network security; and improve operational resilience through observability, incident readiness, and security-by-default standards.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4285F4&center=true&width=750&lines=Senior+Platform+Security+Engineer;Google+Cloud+Ambassador+%E2%80%94+Infrastructure;5%C3%97+GCP+Professional+Certified;Zero+Trust+%7C+Kubernetes+%7C+Terraform+%7C+IAM;Building+Secure%2C+Scalable+Cloud+Platforms)](https://git.io/typing-svg)
 
-I focus on making platforms safe to operate at scale, predictable under change, and easy for engineering teams to use without compromising security, reliability, or delivery speed. I value clean architecture, strong engineering culture, and pragmatic enablement practices that reduce key-person risk and improve long-term maintainability.
+<br/>
 
-Check out my [Portfolio](https://www.alekseialeinikov.com), my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e), or connect with me if you want to chat about DevOps, cloud, or building reliable systems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-alekseialeinikov.com-0e4a17?style=for-the-badge&logo=firefox&logoColor=white)](https://www.alekseialeinikov.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a--aleinikov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-aleinikov/)
+[![Medium](https://img.shields.io/badge/Medium-@aleksei.aleinikov.gr-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aleksei.aleinikov.gr)
+[![Cloud Skills Boost](https://img.shields.io/badge/Cloud_Skills_Boost-Diamond_League_180k+-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black)](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e)
+
+</div>
+
+---
+
+## 👋 About Me
+
+Senior Platform Security Engineer with 12+ years of experience designing, securing, and operating cloud-native platforms in enterprise environments. My work sits at the intersection of **platform engineering**, **cloud security**, and **software engineering** — building delivery foundations that are secure by default, predictable under change, and easy for engineering teams to operate at scale.
+
+Currently working at **T-Digital by Deutsche Telekom**, designing and operating production GCP platforms with a focus on IAM architecture, Zero Trust, Kubernetes security, and cloud-native observability.
+
+**Recognition**
+
+![Ambassador](https://img.shields.io/badge/Google_Cloud_Ambassador-Infrastructure-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Professional-5×_Certified-34A853?style=flat-square&logo=googlecloud&logoColor=white)
+![Product Expert](https://img.shields.io/badge/Google-Product_Expert-EA4335?style=flat-square&logo=google&logoColor=white)
+![CCSK](https://img.shields.io/badge/CSA-CCSK_v5-7D3C98?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Partner_Accredited-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -25,47 +46,55 @@ Practical SLI/SLO design, structured alerting with clear ownership, incident run
 Reusable IaC modules, CI/CD templates, and deployment patterns that reduce drift, lower change risk, and help teams ship without reinventing the wheel.
 
 **🐍 Software Engineering**
-Building internal tooling, security automations, and developer-facing services in Python, Go, and TypeScript — including published open-source contributions.
+Building internal tooling, security automations, and developer-facing services in Python, Go, and TypeScript — including merged contributions to official Google Cloud open-source repositories.
 
 **☁️ Google Cloud Depth**
-**Google Cloud Ambassador — Infrastructure**. 5× Professional certified. Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, and AI infrastructure on Vertex AI.
+Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, and AI infrastructure on Vertex AI — with 1,000+ hands-on labs and Diamond League status on Cloud Skills Boost.
 
 ---
 
-## 🌟 Support My Work on Buy Me a Coffee!
-If you enjoy my projects, blog posts, or open-source contributions - you can now support me directly. Every ☕ helps fuel future experiments and community content.
+## 🛠️ Skills
 
-👉[Visit my Buy Me a Coffee page](https://buymeacoffee.com/aleksei_aleinikov) to show your support and help fuel my journey! ☕
+| Category | Icons |
+|---|---|
+| **💻 Programming Languages** | [![Skills](https://skillicons.dev/icons?i=python,go,nodejs,ts,swift,rust)](https://skillicons.dev) |
+| **🌐 Web Development** | [![Skills](https://skillicons.dev/icons?i=nextjs,react,html,css)](https://skillicons.dev) |
+| **🐳 DevOps & Platform Engineering** | [![Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,gitlab,githubactions)](https://skillicons.dev) |
+| **☁️ Cloud & Infrastructure** | [![Skills](https://skillicons.dev/icons?i=gcp,aws,azure,openstack,vercel)](https://skillicons.dev) |
+| **🔭 Observability & Security** | [![Skills](https://skillicons.dev/icons?i=prometheus,grafana,vault,nginx)](https://skillicons.dev) |
+| **🗄️ Databases** | [![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,dynamodb,cassandra)](https://skillicons.dev) |
+| **🧠 AI & Machine Learning** | [![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev) |
 
+---
 
-## My skills:
+## 📈 GitHub Stats
 
-| Category                        | Skills |
-|---------------------------------|--------|
-| **💻 Programming Languages**   | [![My Skills](https://skillicons.dev/icons?i=python,go,nodejs,ts,swift,rust)](https://skillicons.dev) |
-| **🌐 Web Development**             | [![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css)](https://skillicons.dev) |
-| **🐳 DevOps Engineering** | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,gitlab)](https://skillicons.dev) |
-| **☁️ Cloud Services and Infrastructure** | [![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure,openstack,vercel,heroku)](https://skillicons.dev) |
-| **🗄️ Databases and Data Storage**  | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,dynamodb,sqlite,cassandra)](https://skillicons.dev) |
-| **🧠 AI & Machine Learning**       | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikkit-learn)](https://skillicons.dev) |
-
+<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lf3551&theme=github_dark)
 
-<p align="left">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lf3551&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lf3551&theme=github_dark" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lf3551&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lf3551&theme=github_dark&utcOffset=3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lf3551&theme=github_dark&utcOffset=2" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=lf3551&theme=github-dark-blue&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=lf3551&theme=github-dark-blue&hide_border=true" />
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lf3551&theme=github-compact&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lf3551&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_My_Work-FBBC04?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/aleksei_aleinikov)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=4285F4,34A853,FBBC04,EA4335&height=100&section=footer&animation=fadeIn)
+
+</div>
