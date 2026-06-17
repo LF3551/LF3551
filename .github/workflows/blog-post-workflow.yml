@@ -2,8 +2,8 @@ name: Latest Blog Posts
 
 on:
     schedule:
-        # Runs every 6 hours
-        - cron: "0 */6 * * *"
+        # Runs once a day at 06:00 UTC
+        - cron: "0 6 * * *"
     workflow_dispatch:
 
 permissions:
@@ -21,7 +21,7 @@ jobs:
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
                   feed_list: "https://www.alekseialeinikov.com/feed-en.xml"
-                  max_post_count: 5
+                  max_post_count: 10
                   template: "$newline- [**$title**]($url) &nbsp;·&nbsp; <sub>$date</sub>"
                   date_format: "mmm d, yyyy"
                   commit_message: "chore: update latest blog posts"
