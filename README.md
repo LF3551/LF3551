@@ -28,6 +28,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ![Product Expert](https://img.shields.io/badge/Google-Product_Expert-EA4335?style=flat-square&logo=google&logoColor=white)
 ![Security Champion](https://img.shields.io/badge/Google_Cloud_Security-Champion-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
 ![CCSK](https://img.shields.io/badge/CSA-CCSK_v5-7D3C98?style=flat-square&logoColor=white)
+![CCZT](https://img.shields.io/badge/CSA-CCZT-7D3C98?style=flat-square&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Partner_Accredited-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
@@ -51,16 +52,6 @@ Building internal tooling, security automations, and developer-facing services i
 
 **☁️ Google Cloud Depth**
 Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, and AI infrastructure on Vertex AI — with 1,000+ hands-on labs and Diamond League status on Cloud Skills Boost.
-
----
-
-## 🤝 Communities & Affiliations
-
-- 🛡️ **Security Champion** — Google Cloud Security · Security Champions Community
-- 🚀 **Member** — Application Modernization Partner Engineering Practice (EMEA), Google Cloud
-- 🧠 **Google Product Expert** — supporting thousands of engineers across Google Cloud topics
-- 🔧 **Open Source Contributor** — merged contributions to official Google Cloud Terraform repositories, reviewed by Google engineers
-- 🎤 **Speaker** — Google Developer Groups (GDG) · Build with AI 2026 (RAG, Vertex AI, Secret Manager)
 
 ---
 
