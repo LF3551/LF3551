@@ -90,11 +90,7 @@ Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lf3551&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lf3551&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&icon_color=4285F4&title_color=34A853" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lf3551&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&icon_color=4285F4&title_color=34A853" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lf3551&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=34A853" />
 
 <br/>
