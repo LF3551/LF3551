@@ -17,25 +17,13 @@ Check out my [Portfolio](https://www.alekseialeinikov.com), my [Google Cloud Ski
 <td width="50%" valign="top">
 
 **🏗️ Platform & Cloud Engineering**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-
-Build and operate cloud-native platforms with **Kubernetes**, **Terraform**, and **GitOps** — secure-by-default foundations, standardization across environments, and consistent promotion workflows.
+Build and operate cloud-native platforms on GKE and GCP — secure-by-default foundations, multi-region deployment patterns, GitOps-based promotion workflows, and standardized IaC across environments.
 
 </td>
 <td width="50%" valign="top">
 
 **🔐 Security-First Delivery**
-
-![CloudArmor](https://img.shields.io/badge/Cloud_Armor-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![OPA](https://img.shields.io/badge/OPA-7D3C98?style=flat-square&logo=openpolicyagent&logoColor=white)
-![Kyverno](https://img.shields.io/badge/Kyverno-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
-
-Zero Trust with Workload Identity Federation, **Binary Authorization**, **Cloud Armor** WAF tuning, secrets management, and policy enforcement via OPA/Kyverno.
+Zero Trust architecture with Workload Identity Federation, Binary Authorization for supply-chain integrity, Cloud Armor WAF tuning at scale, secrets management, and policy enforcement via OPA/Kyverno.
 
 </td>
 </tr>
@@ -43,23 +31,13 @@ Zero Trust with Workload Identity Federation, **Binary Authorization**, **Cloud 
 <td width="50%" valign="top">
 
 **📊 Reliability & Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white)
-
-Define practical SLI/SLO targets, design operational visibility, and improve incident response with actionable alerting and clear runbooks.
+Practical SLI/SLO design, structured alerting with clear ownership, incident runbooks, and dashboards that surface signal rather than noise.
 
 </td>
 <td width="50%" valign="top">
 
 **⚙️ Automation & Enablement**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Reusable IaC modules, CI templates, and deployment patterns that reduce drift, lower change risk, and help teams ship consistently.
+Reusable IaC modules, CI/CD templates, and deployment patterns that reduce drift, lower change risk, and help teams ship without reinventing the wheel.
 
 </td>
 </tr>
@@ -67,23 +45,13 @@ Reusable IaC modules, CI templates, and deployment patterns that reduce drift, l
 <td width="50%" valign="top">
 
 **🐍 Software Engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-Active practitioner building internal tooling, automations, security pipelines, and developer-facing services.
+Building internal tooling, security automations, and developer-facing services in Python, Go, and TypeScript — including published open-source contributions.
 
 </td>
 <td width="50%" valign="top">
 
 **☁️ Google Cloud Depth**
-
-![GCP](https://img.shields.io/badge/Google_Cloud_Ambassador-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GKE](https://img.shields.io/badge/GKE-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![VertexAI](https://img.shields.io/badge/Vertex_AI-34A853?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Google Cloud Ambassador — Infrastructure**. 5× Professional certified. Multi-region GKE, IAM architecture, VPC design, FinOps, and AI infrastructure on Vertex AI.
+**Google Cloud Ambassador — Infrastructure**. 5× Professional certified. Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, and AI infrastructure on Vertex AI.
 
 </td>
 </tr>
