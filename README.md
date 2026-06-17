@@ -11,6 +11,8 @@
 [![Medium](https://img.shields.io/badge/Medium-@aleksei.aleinikov.gr-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aleksei.aleinikov.gr)
 [![Cloud Skills Boost](https://img.shields.io/badge/Cloud_Skills_Boost-Diamond_League_180k+-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black)](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e)
 
+<img src="https://komarev.com/ghpvc/?username=lf3551&style=flat&color=4285F4&label=Profile+Views" alt="profile views" />
+
 </div>
 
 ---
@@ -98,6 +100,19 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
     <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css" height="40" /></a></td>
   </tr>
 </table>
+
+---
+
+## ✍️ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="right">
+
+[**→ Read all articles on alekseialeinikov.com**](https://www.alekseialeinikov.com/en/blog)
+
+</div>
 
 ---
 

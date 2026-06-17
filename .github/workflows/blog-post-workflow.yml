@@ -1,0 +1,24 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest articles
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull latest posts from feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.alekseialeinikov.com/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$newline_$date</sub>$newline$newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: update latest blog posts"
