@@ -55,17 +55,29 @@ Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, a
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-| Category | Icons |
-|---|---|
-| **💻 Programming Languages** | [![Skills](https://skillicons.dev/icons?i=python,go,nodejs,ts,swift,rust)](https://skillicons.dev) |
-| **🌐 Web Development** | [![Skills](https://skillicons.dev/icons?i=nextjs,react,html,css)](https://skillicons.dev) |
-| **🐳 DevOps & Platform Engineering** | [![Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,gitlab,githubactions)](https://skillicons.dev) |
-| **☁️ Cloud & Infrastructure** | [![Skills](https://skillicons.dev/icons?i=gcp,aws,azure,openstack,vercel)](https://skillicons.dev) |
-| **🔭 Observability & Security** | [![Skills](https://skillicons.dev/icons?i=prometheus,grafana,vault,nginx)](https://skillicons.dev) |
-| **🗄️ Databases** | [![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,dynamodb,cassandra)](https://skillicons.dev) |
-| **🧠 AI & Machine Learning** | [![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev) |
+<div align="center">
+
+![](https://img.shields.io/badge/-Languages-1A1B27?style=for-the-badge&labelColor=4285F4)<br/>
+[![Languages](https://skillicons.dev/icons?i=python,go,ts,nodejs,rust,swift&perline=6)](https://skillicons.dev)
+
+![](https://img.shields.io/badge/-Cloud_&_Infrastructure-1A1B27?style=for-the-badge&labelColor=34A853)<br/>
+[![Cloud](https://skillicons.dev/icons?i=gcp,aws,azure,terraform,kubernetes,docker&perline=6)](https://skillicons.dev)
+
+![](https://img.shields.io/badge/-DevOps_&_Automation-1A1B27?style=for-the-badge&labelColor=FBBC04)<br/>
+[![DevOps](https://skillicons.dev/icons?i=githubactions,gitlab,ansible,bash,grafana,prometheus&perline=6)](https://skillicons.dev)
+
+![](https://img.shields.io/badge/-Security_&_Networking-1A1B27?style=for-the-badge&labelColor=EA4335)<br/>
+[![Security](https://skillicons.dev/icons?i=vault,nginx,linux,cloudflare&perline=6)](https://skillicons.dev)
+
+![](https://img.shields.io/badge/-Data_&_AI-1A1B27?style=for-the-badge&labelColor=7D3C98)<br/>
+[![Data](https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,cassandra,tensorflow,pytorch&perline=7)](https://skillicons.dev)
+
+![](https://img.shields.io/badge/-Web-1A1B27?style=for-the-badge&labelColor=0EA5E9)<br/>
+[![Web](https://skillicons.dev/icons?i=react,nextjs,html,css&perline=4)](https://skillicons.dev)
+
+</div>
 
 ---
 
