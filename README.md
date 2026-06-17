@@ -57,27 +57,32 @@ Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, a
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![](https://img.shields.io/badge/-Languages-1A1B27?style=for-the-badge&labelColor=4285F4)<br/>
-[![Languages](https://skillicons.dev/icons?i=python,go,ts,nodejs,rust,swift&perline=6)](https://skillicons.dev)
-
-![](https://img.shields.io/badge/-Cloud_&_Infrastructure-1A1B27?style=for-the-badge&labelColor=34A853)<br/>
-[![Cloud](https://skillicons.dev/icons?i=gcp,aws,azure,terraform,kubernetes,docker&perline=6)](https://skillicons.dev)
-
-![](https://img.shields.io/badge/-DevOps_&_Automation-1A1B27?style=for-the-badge&labelColor=FBBC04)<br/>
-[![DevOps](https://skillicons.dev/icons?i=githubactions,gitlab,ansible,bash,grafana,prometheus&perline=6)](https://skillicons.dev)
-
-![](https://img.shields.io/badge/-Security_&_Networking-1A1B27?style=for-the-badge&labelColor=EA4335)<br/>
-[![Security](https://skillicons.dev/icons?i=vault,nginx,linux,cloudflare&perline=6)](https://skillicons.dev)
-
-![](https://img.shields.io/badge/-Data_&_AI-1A1B27?style=for-the-badge&labelColor=7D3C98)<br/>
-[![Data](https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,cassandra,tensorflow,pytorch&perline=7)](https://skillicons.dev)
-
-![](https://img.shields.io/badge/-Web-1A1B27?style=for-the-badge&labelColor=0EA5E9)<br/>
-[![Web](https://skillicons.dev/icons?i=react,nextjs,html,css&perline=4)](https://skillicons.dev)
-
-</div>
+<table>
+  <tr>
+    <td align="right" width="200"><b>☁️&nbsp;&nbsp;Cloud&nbsp;&&nbsp;Infra</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,aws,azure,terraform,kubernetes,docker" height="40" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️&nbsp;&nbsp;DevOps&nbsp;&&nbsp;CI/CD</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions,gitlab,ansible,bash,grafana,prometheus" height="40" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🔐&nbsp;&nbsp;Security&nbsp;&&nbsp;Net</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vault,linux,nginx,cloudflare" height="40" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>💻&nbsp;&nbsp;Languages</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,go,ts,nodejs,rust,swift" height="40" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️&nbsp;&nbsp;Data&nbsp;&&nbsp;AI</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,cassandra,tensorflow,pytorch" height="40" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🌐&nbsp;&nbsp;Web</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css" height="40" /></a></td>
+  </tr>
+</table>
 
 ---
 
