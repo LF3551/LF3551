@@ -12,50 +12,23 @@ Check out my [Portfolio](https://www.alekseialeinikov.com), my [Google Cloud Ski
 
 ## 💪 Strengths
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **🏗️ Platform & Cloud Engineering**
 Build and operate cloud-native platforms on GKE and GCP — secure-by-default foundations, multi-region deployment patterns, GitOps-based promotion workflows, and standardized IaC across environments.
-
-</td>
-<td width="50%" valign="top">
 
 **🔐 Security-First Delivery**
 Zero Trust architecture with Workload Identity Federation, Binary Authorization for supply-chain integrity, Cloud Armor WAF tuning at scale, secrets management, and policy enforcement via OPA/Kyverno.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **📊 Reliability & Observability**
 Practical SLI/SLO design, structured alerting with clear ownership, incident runbooks, and dashboards that surface signal rather than noise.
-
-</td>
-<td width="50%" valign="top">
 
 **⚙️ Automation & Enablement**
 Reusable IaC modules, CI/CD templates, and deployment patterns that reduce drift, lower change risk, and help teams ship without reinventing the wheel.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **🐍 Software Engineering**
 Building internal tooling, security automations, and developer-facing services in Python, Go, and TypeScript — including published open-source contributions.
 
-</td>
-<td width="50%" valign="top">
-
 **☁️ Google Cloud Depth**
 **Google Cloud Ambassador — Infrastructure**. 5× Professional certified. Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, and AI infrastructure on Vertex AI.
-
-</td>
-</tr>
-</table>
 
 ---
 
