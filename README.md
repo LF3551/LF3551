@@ -110,7 +110,12 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**I Became a Google Cloud Ambassador — Infrastructure: Here Is What It Actually Takes in 2026**](https://www.alekseialeinikov.com/en/blog/google-cloud-ambassador-infrastructure-journey-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
 - [**Kafka vs Pub/Sub in 2026: When Managed Messaging Saves a Fintech Launch**](https://medium.com/p/896fe0a9ae8e) &nbsp;·&nbsp; <sub>Jun 15, 2026</sub>
 - [**LinkedIn Scraper vs. Dataset Marketplace: A Data Engineer&#39;s Honest Review &lpar;2026&rpar;**](https://levelup.gitconnected.com/i-spent-3-days-building-a-linkedin-scraper-then-i-found-the-dataset-already-existed-9e9093504ca1) &nbsp;·&nbsp; <sub>Jun 1, 2026</sub>
-- [**Python Web Scraping Without Proxy Management: Bright Data Web Unlocker API &lpar;2026&rpar;**](https://levelup.gitconnected.com/how-i-scraped-modern-protected-websites-in-python-without-managing-a-single-proxy-2e0f07d30208) &nbsp;·&nbsp; <sub>May 29, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Python Web Scraping Without Proxy Management: Bright Data Web Unlocker API &lpar;2026&rpar;**](https://levelup.gitconnected.com/how-i-scraped-modern-protected-websites-in-python-without-managing-a-single-proxy-2e0f07d30208) &nbsp;·&nbsp; <sub>May 29, 2026</sub>
+- [**Stop Storing JWTs in LocalStorage: Cookie Auth for SPAs in 2026**](https://medium.com/p/b5645ed27fee) &nbsp;·&nbsp; <sub>May 26, 2026</sub>
+- [**Python Error Handling in 2026: Try-Except or If-Checks?**](https://medium.com/p/15ebe811b8c6) &nbsp;·&nbsp; <sub>May 24, 2026</sub>
+- [**Secure GitLab CI/CD in 2026: A Practical Hardening Playbook**](https://medium.com/p/09cde127063d) &nbsp;·&nbsp; <sub>May 9, 2026</sub>
+- [**How Many Threads Does Go Really Use? A 2026 Runtime Investigation**](https://medium.com/p/eff963f3e435) &nbsp;·&nbsp; <sub>May 2, 2026</sub>
+- [**10 Node.js NPM Packages Worth Mastering in 2026**](https://medium.com/p/536f0927fce3) &nbsp;·&nbsp; <sub>May 2, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
