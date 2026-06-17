@@ -90,21 +90,20 @@ Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, a
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lf3551&theme=github_dark)
+<img src="https://github-profile-trophy.vercel.app/?username=lf3551&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lf3551&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lf3551&theme=github_dark" />
-</p>
+<br/>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lf3551&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lf3551&theme=github_dark&utcOffset=2" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lf3551&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&icon_color=4285F4&title_color=34A853" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lf3551&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=34A853" />
 
-<img src="https://streak-stats.demolab.com?user=lf3551&theme=github-dark-blue&hide_border=true" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lf3551&theme=github-compact&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=lf3551&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lf3551&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
 </div>
 
