@@ -105,7 +105,21 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 
 ## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Build a Tiny Linux Container without Docker in 2026](https://medium.com/p/ab4b661b8328) <sub>
+_Jul 17, 2026</sub>
+
+- [Einen kleinen Linux-Container ohne Docker bauen 2026](https://medium.com/p/ab4b661b8328) <sub>
+_Jul 17, 2026</sub>
+
+- [I Became a Google Cloud Ambassador — Infrastructure: Here Is What It Actually Takes in 2026](https://www.alekseialeinikov.com/en/blog/google-cloud-ambassador-infrastructure-journey-2026) <sub>
+_Jun 16, 2026</sub>
+
+- [Ich wurde Google Cloud Ambassador — Infrastructure: Was es in 2026 wirklich braucht](https://www.alekseialeinikov.com/de/blog/google-cloud-ambassador-infrastructure-weg-2026) <sub>
+_Jun 16, 2026</sub>
+
+- [Kafka vs Pub/Sub in 2026: When Managed Messaging Saves a Fintech Launch](https://medium.com/p/896fe0a9ae8e) <sub>
+_Jun 15, 2026</sub>
+
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
