@@ -68,7 +68,7 @@ Multi-region GKE, IAM architecture, VPC/network security, FinOps at org level, a
   </tr>
   <tr>
     <td align="right"><b>🔐&nbsp;&nbsp;Security&nbsp;&&nbsp;Net</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vault,linux,nginx,cloudflare" height="40" /></a></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vault,kali,linux,debian,nginx,cloudflare,bash" height="40" /></a></td>
   </tr>
   <tr>
     <td align="right"><b>💻&nbsp;&nbsp;Languages</b></td>
