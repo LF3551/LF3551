@@ -106,16 +106,16 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [**Build a Tiny Linux Container without Docker in 2026**](https://www.alekseialeinikov.com/en/blog/build-a-tiny-linux-container-without-docker-2026) &nbsp;·&nbsp; <sub>Jul 17, 2026</sub>
+- [**Build a Tiny Linux Container without Docker in 2026**](https://www.alekseialeinikov.com/en/blog/build-a-tiny-linux-container-without-docker-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
+- [**microVMs Explained: Firecracker vs gVisor for Secure Workloads in 2026**](https://www.alekseialeinikov.com/en/blog/microvms-firecracker-vs-gvisor-secure-workloads-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
+- [**Production-Grade Playwright Web Scraping on Kubernetes with Bright Data &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/playwright-bright-data-browser-api-kubernetes-scraping-pipeline-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
+- [**LinkedIn Scraping vs. Buying a Dataset in 2026: 3 Days of Code I Could Have Skipped**](https://www.alekseialeinikov.com/en/blog/linkedin-scraper-vs-dataset-marketplace-data-engineer-honest-review-2026) &nbsp;·&nbsp; <sub>Jun 17, 2026</sub>
 - [**I Became a Google Cloud Ambassador — Infrastructure: Here Is What It Actually Takes in 2026**](https://www.alekseialeinikov.com/en/blog/google-cloud-ambassador-infrastructure-journey-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
+- [**Real-Time RAG in Python: Feed Your LLM Live Google Results &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/real-time-rag-pipeline-python-bright-data-serp-api-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
 - [**Kafka vs Pub/Sub in 2026: When Managed Messaging Saves a Fintech Launch**](https://www.alekseialeinikov.com/en/blog/kafka-vs-pubsub-2026-managed-messaging-fintech-outage) &nbsp;·&nbsp; <sub>Jun 15, 2026</sub>
-- [**LinkedIn Scraper vs. Dataset Marketplace: A Data Engineer&#39;s Honest Review &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/linkedin-scraper-vs-dataset-marketplace-data-engineer-honest-review-2026) &nbsp;·&nbsp; <sub>Jun 1, 2026</sub>
 - [**Python Web Scraping Without Proxy Management: Bright Data Web Unlocker API &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/python-web-scraping-without-proxy-management-bright-data-web-unlocker) &nbsp;·&nbsp; <sub>May 29, 2026</sub>
 - [**Stop Storing JWTs in LocalStorage: Cookie Auth for SPAs in 2026**](https://www.alekseialeinikov.com/en/blog/stop-storing-jwts-in-localstorage-cookie-auth-for-spas-2026) &nbsp;·&nbsp; <sub>May 26, 2026</sub>
-- [**Python Error Handling in 2026: Try-Except or If-Checks?**](https://www.alekseialeinikov.com/en/blog/python-error-handling-2026-try-except-or-if-checks) &nbsp;·&nbsp; <sub>May 24, 2026</sub>
-- [**Secure GitLab CI/CD in 2026: A Practical Hardening Playbook**](https://www.alekseialeinikov.com/en/blog/secure-gitlab-cicd-hardening-playbook-2026) &nbsp;·&nbsp; <sub>May 9, 2026</sub>
-- [**How Many Threads Does Go Really Use? A 2026 Runtime Investigation**](https://www.alekseialeinikov.com/en/blog/how-many-threads-go-really-uses-runtime-investigation-2026) &nbsp;·&nbsp; <sub>May 2, 2026</sub>
-- [**10 Node.js NPM Packages Worth Mastering in 2026**](https://www.alekseialeinikov.com/en/blog/nodejs-npm-packages-worth-mastering-in-2026) &nbsp;·&nbsp; <sub>May 2, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Python Error Handling in 2026: Try-Except or If-Checks?**](https://www.alekseialeinikov.com/en/blog/python-error-handling-2026-try-except-or-if-checks) &nbsp;·&nbsp; <sub>May 24, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
