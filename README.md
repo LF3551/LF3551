@@ -97,7 +97,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
   </tr>
   <tr>
     <td align="right"><b>🌐&nbsp;&nbsp;Web</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css" height="40" /></a></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css" height="40" /></a></td>
   </tr>
 </table>
 
