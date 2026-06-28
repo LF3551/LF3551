@@ -106,6 +106,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Google ADK in 2026: Building Production AI Agents with the Agent Development Kit**](https://www.alekseialeinikov.com/en/blog/topics/cloud/google-adk-build-production-ai-agents-2026) &nbsp;·&nbsp; <sub>Jun 27, 2026</sub>
 - [**Build a Tiny Linux Container without Docker in 2026**](https://www.alekseialeinikov.com/en/blog/topics/devops/build-a-tiny-linux-container-without-docker-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
 - [**microVMs Explained: Firecracker vs gVisor for Secure Workloads in 2026**](https://www.alekseialeinikov.com/en/blog/topics/devops/microvms-firecracker-vs-gvisor-secure-workloads-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
 - [**Production-Grade Playwright Web Scraping on Kubernetes with Bright Data &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/playwright-bright-data-browser-api-kubernetes-scraping-pipeline-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
@@ -114,8 +115,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Real-Time RAG in Python: Feed Your LLM Live Google Results &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/real-time-rag-pipeline-python-bright-data-serp-api-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
 - [**Kafka vs Pub/Sub in 2026: When Managed Messaging Saves a Fintech Launch**](https://www.alekseialeinikov.com/en/blog/topics/cloud/kafka-vs-pubsub-2026-managed-messaging-fintech-outage) &nbsp;·&nbsp; <sub>Jun 15, 2026</sub>
 - [**Python Web Scraping Without Proxy Management: Bright Data Web Unlocker API &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/python-web-scraping-without-proxy-management-bright-data-web-unlocker) &nbsp;·&nbsp; <sub>May 29, 2026</sub>
-- [**Stop Storing JWTs in LocalStorage: Cookie Auth for SPAs in 2026**](https://www.alekseialeinikov.com/en/blog/topics/programming/stop-storing-jwts-in-localstorage-cookie-auth-for-spas-2026) &nbsp;·&nbsp; <sub>May 26, 2026</sub>
-- [**Python Error Handling in 2026: Try-Except or If-Checks?**](https://www.alekseialeinikov.com/en/blog/topics/programming/python-error-handling-2026-try-except-or-if-checks) &nbsp;·&nbsp; <sub>May 24, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Stop Storing JWTs in LocalStorage: Cookie Auth for SPAs in 2026**](https://www.alekseialeinikov.com/en/blog/topics/programming/stop-storing-jwts-in-localstorage-cookie-auth-for-spas-2026) &nbsp;·&nbsp; <sub>May 26, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
