@@ -106,16 +106,16 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**The First 24 Hours with Security Command Center: What Nobody Tells You**](https://www.alekseialeinikov.com/en/blog/topics/security/first-24-hours-google-cloud-security-command-center-2026) &nbsp;·&nbsp; <sub>Jun 29, 2026</sub>
+- [**Pub/Sub or Eventarc? Event-Driven GCP Without the Spaghetti**](https://www.alekseialeinikov.com/en/blog/topics/architecture/pubsub-vs-eventarc-2026-event-driven-gcp-without-spaghetti) &nbsp;·&nbsp; <sub>Jun 29, 2026</sub>
 - [**Google ADK in 2026: Building Production AI Agents with the Agent Development Kit**](https://www.alekseialeinikov.com/en/blog/topics/cloud/google-adk-build-production-ai-agents-2026) &nbsp;·&nbsp; <sub>Jun 27, 2026</sub>
 - [**Build a Tiny Linux Container without Docker in 2026**](https://www.alekseialeinikov.com/en/blog/topics/devops/build-a-tiny-linux-container-without-docker-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
 - [**microVMs Explained: Firecracker vs gVisor for Secure Workloads in 2026**](https://www.alekseialeinikov.com/en/blog/topics/devops/microvms-firecracker-vs-gvisor-secure-workloads-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
 - [**Production-Grade Playwright Web Scraping on Kubernetes with Bright Data &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/playwright-bright-data-browser-api-kubernetes-scraping-pipeline-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
 - [**LinkedIn Scraping vs. Buying a Dataset in 2026: 3 Days of Code I Could Have Skipped**](https://www.alekseialeinikov.com/en/blog/topics/programming/linkedin-scraper-vs-dataset-marketplace-data-engineer-honest-review-2026) &nbsp;·&nbsp; <sub>Jun 17, 2026</sub>
 - [**I Became a Google Cloud Ambassador — Infrastructure: Here Is What It Actually Takes in 2026**](https://www.alekseialeinikov.com/en/blog/topics/cloud/google-cloud-ambassador-infrastructure-journey-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
-- [**Real-Time RAG in Python: Feed Your LLM Live Google Results &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/real-time-rag-pipeline-python-bright-data-serp-api-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
-- [**Kafka vs Pub/Sub in 2026: When Managed Messaging Saves a Fintech Launch**](https://www.alekseialeinikov.com/en/blog/topics/cloud/kafka-vs-pubsub-2026-managed-messaging-fintech-outage) &nbsp;·&nbsp; <sub>Jun 15, 2026</sub>
-- [**Python Web Scraping Without Proxy Management: Bright Data Web Unlocker API &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/python-web-scraping-without-proxy-management-bright-data-web-unlocker) &nbsp;·&nbsp; <sub>May 29, 2026</sub>
-- [**Stop Storing JWTs in LocalStorage: Cookie Auth for SPAs in 2026**](https://www.alekseialeinikov.com/en/blog/topics/programming/stop-storing-jwts-in-localstorage-cookie-auth-for-spas-2026) &nbsp;·&nbsp; <sub>May 26, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Real-Time RAG in Python: Feed Your LLM Live Google Results &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/ai/real-time-rag-pipeline-python-bright-data-serp-api-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
+- [**Kafka vs Pub/Sub in 2026: When Managed Messaging Saves a Fintech Launch**](https://www.alekseialeinikov.com/en/blog/topics/cloud/kafka-vs-pubsub-2026-managed-messaging-fintech-outage) &nbsp;·&nbsp; <sub>Jun 15, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
