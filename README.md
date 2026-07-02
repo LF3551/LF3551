@@ -106,6 +106,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Kill Your Service Account Keys: Workload Identity Federation on GCP in 2026**](https://www.alekseialeinikov.com/en/blog/topics/security/kill-service-account-keys-workload-identity-federation-2026) &nbsp;·&nbsp; <sub>Jul 1, 2026</sub>
 - [**es-toolkit in 2026: The Lodash Replacement That&#39;s 2× Faster and 97% Smaller**](https://www.alekseialeinikov.com/en/blog/topics/programming/es-toolkit-2026-lodash-replacement-2x-faster-97-smaller) &nbsp;·&nbsp; <sub>Jun 30, 2026</sub>
 - [**The First 24 Hours with Security Command Center: What Nobody Tells You**](https://www.alekseialeinikov.com/en/blog/topics/security/first-24-hours-google-cloud-security-command-center-2026) &nbsp;·&nbsp; <sub>Jun 29, 2026</sub>
 - [**Pub/Sub or Eventarc? Event-Driven GCP Without the Spaghetti**](https://www.alekseialeinikov.com/en/blog/topics/architecture/pubsub-vs-eventarc-2026-event-driven-gcp-without-spaghetti) &nbsp;·&nbsp; <sub>Jun 29, 2026</sub>
@@ -114,8 +115,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**microVMs Explained: Firecracker vs gVisor for Secure Workloads in 2026**](https://www.alekseialeinikov.com/en/blog/topics/devops/microvms-firecracker-vs-gvisor-secure-workloads-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
 - [**Production-Grade Playwright Web Scraping on Kubernetes with Bright Data &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/playwright-bright-data-browser-api-kubernetes-scraping-pipeline-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
 - [**LinkedIn Scraping vs. Buying a Dataset in 2026: 3 Days of Code I Could Have Skipped**](https://www.alekseialeinikov.com/en/blog/topics/programming/linkedin-scraper-vs-dataset-marketplace-data-engineer-honest-review-2026) &nbsp;·&nbsp; <sub>Jun 17, 2026</sub>
-- [**I Became a Google Cloud Ambassador — Infrastructure: Here Is What It Actually Takes in 2026**](https://www.alekseialeinikov.com/en/blog/topics/cloud/google-cloud-ambassador-infrastructure-journey-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub>
-- [**Real-Time RAG in Python: Feed Your LLM Live Google Results &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/ai/real-time-rag-pipeline-python-bright-data-serp-api-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**I Became a Google Cloud Ambassador — Infrastructure: Here Is What It Actually Takes in 2026**](https://www.alekseialeinikov.com/en/blog/topics/cloud/google-cloud-ambassador-infrastructure-journey-2026) &nbsp;·&nbsp; <sub>Jun 16, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
