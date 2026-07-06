@@ -1,4 +1,4 @@
-<div align="center">
+ч<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4285F4,34A853,FBBC04,EA4335&height=200&section=header&text=Aleksei%20Aleinikov&fontSize=48&fontColor=fff&fontAlignY=35&desc=Google%20Cloud%20Ambassador%20%E2%80%94%20Infrastructure&descSize=18&descAlignY=58&animation=fadeIn)
 
@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-alekseialeinikov.com-0e4a17?style=for-the-badge&logo=firefox&logoColor=white)](https://www.alekseialeinikov.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a--aleinikov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-aleinikov/)
 [![Medium](https://img.shields.io/badge/Medium-@aleksei.aleinikov.gr-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aleksei.aleinikov.gr)
+[![Bluesky](https://img.shields.io/badge/Bluesky-alekseialeinikov.com-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/alekseialeinikov.com)
 [![Cloud Skills Boost](https://img.shields.io/badge/Cloud_Skills_Boost-Diamond_League_180k+-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black)](https://www.cloudskillsboost.google/public_profiles/3f0276b2-6903-48d5-adf1-8831d5555c7e)
 
 <img src="https://komarev.com/ghpvc/?username=lf3551&style=flat&color=4285F4&label=Profile+Views" alt="profile views" />
