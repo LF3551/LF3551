@@ -130,9 +130,6 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lf3551&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&icon_color=4285F4&title_color=34A853" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lf3551&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=34A853" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=lf3551&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
