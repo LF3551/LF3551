@@ -107,16 +107,16 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**I Replaced ESLint + Prettier with Biome in 2026 — Here Is the Benchmark**](https://www.alekseialeinikov.com/en/blog/topics/programming/biome-2026-replace-eslint-prettier-benchmark) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub>
 - [**Build Your Own CSPM on GCP: Security Command Center vs Open Source**](https://www.alekseialeinikov.com/en/blog/topics/security/build-your-own-cspm-gcp-security-command-center-vs-open-source-2026) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub>
+- [**Secure-by-Default GKE: A Reference Architecture for 2026**](https://www.alekseialeinikov.com/en/blog/topics/architecture/secure-by-default-gke-reference-architecture-2026) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub>
 - [**Web Scraping vs Web Crawling: The Real Difference &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/web-scraping-vs-web-crawling-2026) &nbsp;·&nbsp; <sub>Jul 3, 2026</sub>
 - [**Kill Your Service Account Keys: Workload Identity Federation on GCP in 2026**](https://www.alekseialeinikov.com/en/blog/topics/security/kill-service-account-keys-workload-identity-federation-2026) &nbsp;·&nbsp; <sub>Jul 1, 2026</sub>
 - [**es-toolkit in 2026: The Lodash Replacement That&#39;s 2× Faster and 97% Smaller**](https://www.alekseialeinikov.com/en/blog/topics/programming/es-toolkit-2026-lodash-replacement-2x-faster-97-smaller) &nbsp;·&nbsp; <sub>Jun 30, 2026</sub>
 - [**The First 24 Hours with Security Command Center: What Nobody Tells You**](https://www.alekseialeinikov.com/en/blog/topics/security/first-24-hours-google-cloud-security-command-center-2026) &nbsp;·&nbsp; <sub>Jun 29, 2026</sub>
 - [**Pub/Sub or Eventarc? Event-Driven GCP Without the Spaghetti**](https://www.alekseialeinikov.com/en/blog/topics/architecture/pubsub-vs-eventarc-2026-event-driven-gcp-without-spaghetti) &nbsp;·&nbsp; <sub>Jun 29, 2026</sub>
 - [**Google ADK in 2026: Building Production AI Agents with the Agent Development Kit**](https://www.alekseialeinikov.com/en/blog/topics/cloud/google-adk-build-production-ai-agents-2026) &nbsp;·&nbsp; <sub>Jun 27, 2026</sub>
-- [**Build a Tiny Linux Container without Docker in 2026**](https://www.alekseialeinikov.com/en/blog/topics/devops/build-a-tiny-linux-container-without-docker-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
-- [**microVMs Explained: Firecracker vs gVisor for Secure Workloads in 2026**](https://www.alekseialeinikov.com/en/blog/topics/devops/microvms-firecracker-vs-gvisor-secure-workloads-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub>
-- [**Production-Grade Playwright Web Scraping on Kubernetes with Bright Data &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/playwright-bright-data-browser-api-kubernetes-scraping-pipeline-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Build a Tiny Linux Container without Docker in 2026**](https://www.alekseialeinikov.com/en/blog/topics/devops/build-a-tiny-linux-container-without-docker-2026) &nbsp;·&nbsp; <sub>Jun 18, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
