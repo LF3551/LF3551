@@ -1,4 +1,4 @@
-ч<div align="center">
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4285F4,34A853,FBBC04,EA4335&height=200&section=header&text=Aleksei%20Aleinikov&fontSize=48&fontColor=fff&fontAlignY=35&desc=Google%20Cloud%20Ambassador%20%E2%80%94%20Infrastructure&descSize=18&descAlignY=58&animation=fadeIn)
 
