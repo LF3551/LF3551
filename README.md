@@ -107,7 +107,8 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [**Scraper Studio vs Apify vs DIY: Which Web Scraping Path Fits Your Team in 2026**](https://www.alekseialeinikov.com/en/blog/topics/programming/scraper-studio-vs-apify-vs-diy-2026) &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+- [**Browser AI in 2026: Running Models On-Device with WebGPU and LiteRT.js**](https://www.alekseialeinikov.com/en/blog/topics/ai/browser-ai-webgpu-litert-js-2026) &nbsp;·&nbsp; <sub>Jul 10, 2026</sub>
+- [**Scraper Studio vs Apify vs DIY: Which Web Scraping Path Fits Your Team in 2026**](https://www.alekseialeinikov.com/en/blog/topics/programming/scraper-studio-vs-apify-vs-diy-2026) &nbsp;·&nbsp; <sub>Jul 9, 2026</sub>
 - [**You Can Code. In 2026, That&#39;s Not Enough — Learn the Cloud &lpar;Google Cloud First&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/career/developers-learn-cloud-2026-google-cloud-first) &nbsp;·&nbsp; <sub>Jul 7, 2026</sub>
 - [**BigQuery vs Snowflake in 2026: An Honest Comparison From a GCP Engineer**](https://www.alekseialeinikov.com/en/blog/topics/data/bigquery-vs-snowflake-2026-honest-comparison) &nbsp;·&nbsp; <sub>Jul 7, 2026</sub>
 - [**User-Level Permission Controls for MCP Tool Access with an Enterprise MCP Gateway**](https://www.alekseialeinikov.com/en/blog/topics/security/user-level-permission-controls-mcp-tool-access-gateway-2026) &nbsp;·&nbsp; <sub>Jul 6, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Build Your Own CSPM on GCP: Security Command Center vs Open Source**](https://www.alekseialeinikov.com/en/blog/topics/security/build-your-own-cspm-gcp-security-command-center-vs-open-source-2026) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub>
 - [**Secure-by-Default GKE: A Reference Architecture for 2026**](https://www.alekseialeinikov.com/en/blog/topics/architecture/secure-by-default-gke-reference-architecture-2026) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub>
 - [**Web Scraping vs Web Crawling: The Real Difference &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/programming/web-scraping-vs-web-crawling-2026) &nbsp;·&nbsp; <sub>Jul 3, 2026</sub>
-- [**Kill Your Service Account Keys: Workload Identity Federation on GCP in 2026**](https://www.alekseialeinikov.com/en/blog/topics/security/kill-service-account-keys-workload-identity-federation-2026) &nbsp;·&nbsp; <sub>Jul 1, 2026</sub>
-- [**es-toolkit in 2026: The Lodash Replacement That&#39;s 2× Faster and 97% Smaller**](https://www.alekseialeinikov.com/en/blog/topics/programming/es-toolkit-2026-lodash-replacement-2x-faster-97-smaller) &nbsp;·&nbsp; <sub>Jun 30, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Kill Your Service Account Keys: Workload Identity Federation on GCP in 2026**](https://www.alekseialeinikov.com/en/blog/topics/security/kill-service-account-keys-workload-identity-federation-2026) &nbsp;·&nbsp; <sub>Jul 1, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
