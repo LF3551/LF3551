@@ -107,6 +107,8 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Cloud Bigtable in 2026: When Wide-Column Beats BigQuery, Spanner, and Cassandra**](https://www.alekseialeinikov.com/en/blog/topics/data/cloud-bigtable-2026-when-wide-column-beats-bigquery-spanner-cassandra) &nbsp;·&nbsp; <sub>Jul 13, 2026</sub>
+- [**How to Send 1,000,000 Notifications Without Falling Over**](https://www.alekseialeinikov.com/en/blog/topics/architecture/send-one-million-notifications-without-falling-over-2026) &nbsp;·&nbsp; <sub>Jul 13, 2026</sub>
 - [**Sovereign by Design: Building a Sovereign Platform on Kubernetes**](https://www.alekseialeinikov.com/en/blog/topics/architecture/sovereign-by-design-building-a-sovereign-platform-on-kubernetes-2026) &nbsp;·&nbsp; <sub>Jul 12, 2026</sub>
 - [**Podman in 2026: Rootless, Daemonless Containers Without Docker**](https://www.alekseialeinikov.com/en/blog/topics/devops/podman-2026-rootless-daemonless-containers-without-docker) &nbsp;·&nbsp; <sub>Jul 11, 2026</sub>
 - [**Browser AI in 2026: Running Models On-Device with WebGPU and LiteRT.js**](https://www.alekseialeinikov.com/en/blog/topics/ai/browser-ai-webgpu-litert-js-2026) &nbsp;·&nbsp; <sub>Jul 10, 2026</sub>
@@ -114,9 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**You Can Code. In 2026, That&#39;s Not Enough — Learn the Cloud &lpar;Google Cloud First&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/career/developers-learn-cloud-2026-google-cloud-first) &nbsp;·&nbsp; <sub>Jul 7, 2026</sub>
 - [**BigQuery vs Snowflake in 2026: An Honest Comparison From a GCP Engineer**](https://www.alekseialeinikov.com/en/blog/topics/data/bigquery-vs-snowflake-2026-honest-comparison) &nbsp;·&nbsp; <sub>Jul 7, 2026</sub>
 - [**User-Level Permission Controls for MCP Tool Access with an Enterprise MCP Gateway**](https://www.alekseialeinikov.com/en/blog/topics/security/user-level-permission-controls-mcp-tool-access-gateway-2026) &nbsp;·&nbsp; <sub>Jul 6, 2026</sub>
-- [**I Replaced ESLint + Prettier with Biome in 2026 — Here Is the Benchmark**](https://www.alekseialeinikov.com/en/blog/topics/programming/biome-2026-replace-eslint-prettier-benchmark) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub>
-- [**Build Your Own CSPM on GCP: Security Command Center vs Open Source**](https://www.alekseialeinikov.com/en/blog/topics/security/build-your-own-cspm-gcp-security-command-center-vs-open-source-2026) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub>
-- [**Secure-by-Default GKE: A Reference Architecture for 2026**](https://www.alekseialeinikov.com/en/blog/topics/architecture/secure-by-default-gke-reference-architecture-2026) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**I Replaced ESLint + Prettier with Biome in 2026 — Here Is the Benchmark**](https://www.alekseialeinikov.com/en/blog/topics/programming/biome-2026-replace-eslint-prettier-benchmark) &nbsp;·&nbsp; <sub>Jul 5, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
