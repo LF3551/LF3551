@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**GKE Gateway API vs Ingress 2026: When to Stop Using nginx**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gke-gateway-api-vs-ingress-2026) &nbsp;·&nbsp; <sub>Jul 16, 2026</sub>
 - [**GKE Autopilot vs Standard in 2026: The Real Trade-offs**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gke-autopilot-vs-standard-2026) &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
 - [**AI Coding Agents in 2026: Claude Code vs Codex vs opencode**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-coding-agents-2026-claude-code-vs-codex-vs-opencode) &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
 - [**Cloud Bigtable in 2026: When Wide-Column Beats BigQuery, Spanner, and Cassandra**](https://www.alekseialeinikov.com/en/blog/topics/data/cloud-bigtable-2026-when-wide-column-beats-bigquery-spanner-cassandra) &nbsp;·&nbsp; <sub>Jul 13, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Podman in 2026: Rootless, Daemonless Containers Without Docker**](https://www.alekseialeinikov.com/en/blog/topics/devops/podman-2026-rootless-daemonless-containers-without-docker) &nbsp;·&nbsp; <sub>Jul 11, 2026</sub>
 - [**Browser AI in 2026: Running Models On-Device with WebGPU and LiteRT.js**](https://www.alekseialeinikov.com/en/blog/topics/ai/browser-ai-webgpu-litert-js-2026) &nbsp;·&nbsp; <sub>Jul 10, 2026</sub>
 - [**Scraper Studio vs Apify vs DIY: Which Web Scraping Path Fits Your Team in 2026**](https://www.alekseialeinikov.com/en/blog/topics/programming/scraper-studio-vs-apify-vs-diy-2026) &nbsp;·&nbsp; <sub>Jul 9, 2026</sub>
-- [**You Can Code. In 2026, That&#39;s Not Enough — Learn the Cloud &lpar;Google Cloud First&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/career/developers-learn-cloud-2026-google-cloud-first) &nbsp;·&nbsp; <sub>Jul 7, 2026</sub>
-- [**BigQuery vs Snowflake in 2026: An Honest Comparison From a GCP Engineer**](https://www.alekseialeinikov.com/en/blog/topics/data/bigquery-vs-snowflake-2026-honest-comparison) &nbsp;·&nbsp; <sub>Jul 7, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**You Can Code. In 2026, That&#39;s Not Enough — Learn the Cloud &lpar;Google Cloud First&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/career/developers-learn-cloud-2026-google-cloud-first) &nbsp;·&nbsp; <sub>Jul 7, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
