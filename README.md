@@ -107,6 +107,8 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Is Your Career AI-Proof? What Companies Get Wrong About AI and Juniors**](https://www.alekseialeinikov.com/en/blog/topics/career/is-your-career-ai-proof-2026) &nbsp;·&nbsp; <sub>Jul 20, 2026</sub>
+- [**Data Governance on GCP in 2026: Who Can See This Data?**](https://www.alekseialeinikov.com/en/blog/topics/data/data-governance-gcp-2026) &nbsp;·&nbsp; <sub>Jul 20, 2026</sub>
 - [**OpenTofu vs Terraform in 2026: Is the Fork Worth Switching To?**](https://www.alekseialeinikov.com/en/blog/topics/devops/opentofu-vs-terraform-2026) &nbsp;·&nbsp; <sub>Jul 17, 2026</sub>
 - [**GKE Gateway API vs Ingress 2026: When to Stop Using nginx**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gke-gateway-api-vs-ingress-2026) &nbsp;·&nbsp; <sub>Jul 16, 2026</sub>
 - [**GKE Autopilot vs Standard in 2026: The Real Trade-offs**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gke-autopilot-vs-standard-2026) &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
@@ -114,9 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Cloud Bigtable in 2026: When Wide-Column Beats BigQuery, Spanner, and Cassandra**](https://www.alekseialeinikov.com/en/blog/topics/data/cloud-bigtable-2026-when-wide-column-beats-bigquery-spanner-cassandra) &nbsp;·&nbsp; <sub>Jul 13, 2026</sub>
 - [**How to Send 1,000,000 Notifications Without Falling Over**](https://www.alekseialeinikov.com/en/blog/topics/architecture/send-one-million-notifications-without-falling-over-2026) &nbsp;·&nbsp; <sub>Jul 13, 2026</sub>
 - [**Sovereign by Design: Building a Sovereign Platform on Kubernetes**](https://www.alekseialeinikov.com/en/blog/topics/architecture/sovereign-by-design-building-a-sovereign-platform-on-kubernetes-2026) &nbsp;·&nbsp; <sub>Jul 12, 2026</sub>
-- [**Podman in 2026: Rootless, Daemonless Containers Without Docker**](https://www.alekseialeinikov.com/en/blog/topics/devops/podman-2026-rootless-daemonless-containers-without-docker) &nbsp;·&nbsp; <sub>Jul 11, 2026</sub>
-- [**Browser AI in 2026: Running Models On-Device with WebGPU and LiteRT.js**](https://www.alekseialeinikov.com/en/blog/topics/ai/browser-ai-webgpu-litert-js-2026) &nbsp;·&nbsp; <sub>Jul 10, 2026</sub>
-- [**Scraper Studio vs Apify vs DIY: Which Web Scraping Path Fits Your Team in 2026**](https://www.alekseialeinikov.com/en/blog/topics/programming/scraper-studio-vs-apify-vs-diy-2026) &nbsp;·&nbsp; <sub>Jul 9, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Podman in 2026: Rootless, Daemonless Containers Without Docker**](https://www.alekseialeinikov.com/en/blog/topics/devops/podman-2026-rootless-daemonless-containers-without-docker) &nbsp;·&nbsp; <sub>Jul 11, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
