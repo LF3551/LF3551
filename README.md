@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**GenAI vs Agentic AI vs AI Agents vs LLM: What&#39;s the Actual Difference?**](https://www.alekseialeinikov.com/en/blog/topics/ai/genai-vs-agentic-ai-vs-ai-agents-vs-llm-2026) &nbsp;·&nbsp; <sub>Jul 21, 2026</sub>
 - [**Is Your Career AI-Proof? What Companies Get Wrong About AI and Juniors**](https://www.alekseialeinikov.com/en/blog/topics/career/is-your-career-ai-proof-2026) &nbsp;·&nbsp; <sub>Jul 20, 2026</sub>
 - [**Data Governance on GCP in 2026: Who Can See This Data?**](https://www.alekseialeinikov.com/en/blog/topics/data/data-governance-gcp-2026) &nbsp;·&nbsp; <sub>Jul 20, 2026</sub>
 - [**OpenTofu vs Terraform in 2026: Is the Fork Worth Switching To?**](https://www.alekseialeinikov.com/en/blog/topics/devops/opentofu-vs-terraform-2026) &nbsp;·&nbsp; <sub>Jul 17, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**AI Coding Agents in 2026: Claude Code vs Codex vs opencode**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-coding-agents-2026-claude-code-vs-codex-vs-opencode) &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
 - [**Cloud Bigtable in 2026: When Wide-Column Beats BigQuery, Spanner, and Cassandra**](https://www.alekseialeinikov.com/en/blog/topics/data/cloud-bigtable-2026-when-wide-column-beats-bigquery-spanner-cassandra) &nbsp;·&nbsp; <sub>Jul 13, 2026</sub>
 - [**How to Send 1,000,000 Notifications Without Falling Over**](https://www.alekseialeinikov.com/en/blog/topics/architecture/send-one-million-notifications-without-falling-over-2026) &nbsp;·&nbsp; <sub>Jul 13, 2026</sub>
-- [**Sovereign by Design: Building a Sovereign Platform on Kubernetes**](https://www.alekseialeinikov.com/en/blog/topics/architecture/sovereign-by-design-building-a-sovereign-platform-on-kubernetes-2026) &nbsp;·&nbsp; <sub>Jul 12, 2026</sub>
-- [**Podman in 2026: Rootless, Daemonless Containers Without Docker**](https://www.alekseialeinikov.com/en/blog/topics/devops/podman-2026-rootless-daemonless-containers-without-docker) &nbsp;·&nbsp; <sub>Jul 11, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Sovereign by Design: Building a Sovereign Platform on Kubernetes**](https://www.alekseialeinikov.com/en/blog/topics/architecture/sovereign-by-design-building-a-sovereign-platform-on-kubernetes-2026) &nbsp;·&nbsp; <sub>Jul 12, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
