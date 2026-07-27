@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**The Real 2026 Engineering Skill Isn&#39;t Coding — It&#39;s Orchestrating AI**](https://www.alekseialeinikov.com/en/blog/topics/career/ai-orchestration-engineering-skill-2026) &nbsp;·&nbsp; <sub>Jul 27, 2026</sub>
 - [**Machines Checking Machines: The Great AI-Detection Absurdity of 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/machines-checking-machines-ai-detection-absurdity-2026) &nbsp;·&nbsp; <sub>Jul 25, 2026</sub>
 - [**Platform Engineering on Kubernetes: What It Actually Is &lpar;and How to Build the Platform&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/devops/platform-engineering-on-kubernetes-2026) &nbsp;·&nbsp; <sub>Jul 23, 2026</sub>
 - [**GenAI vs Agentic AI vs AI Agents vs LLM: What&#39;s the Actual Difference?**](https://www.alekseialeinikov.com/en/blog/topics/ai/genai-vs-agentic-ai-vs-ai-agents-vs-llm-2026) &nbsp;·&nbsp; <sub>Jul 21, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**OpenTofu vs Terraform in 2026: Is the Fork Worth Switching To?**](https://www.alekseialeinikov.com/en/blog/topics/devops/opentofu-vs-terraform-2026) &nbsp;·&nbsp; <sub>Jul 17, 2026</sub>
 - [**GKE Gateway API vs Ingress 2026: When to Stop Using nginx**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gke-gateway-api-vs-ingress-2026) &nbsp;·&nbsp; <sub>Jul 16, 2026</sub>
 - [**GKE Autopilot vs Standard in 2026: The Real Trade-offs**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gke-autopilot-vs-standard-2026) &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-- [**AI Coding Agents in 2026: Claude Code vs Codex vs opencode**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-coding-agents-2026-claude-code-vs-codex-vs-opencode) &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-- [**Cloud Bigtable in 2026: When Wide-Column Beats BigQuery, Spanner, and Cassandra**](https://www.alekseialeinikov.com/en/blog/topics/data/cloud-bigtable-2026-when-wide-column-beats-bigquery-spanner-cassandra) &nbsp;·&nbsp; <sub>Jul 13, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**AI Coding Agents in 2026: Claude Code vs Codex vs opencode**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-coding-agents-2026-claude-code-vs-codex-vs-opencode) &nbsp;·&nbsp; <sub>Jul 14, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
