@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Backups Are Not Disaster Recovery — Here&#39;s the Difference That Will Cost You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/backups-are-not-disaster-recovery-2026) &nbsp;·&nbsp; <sub>Jul 30, 2026</sub>
 - [**SBOM Won&#39;t Stop the Next Log4j — Here&#39;s What Actually Would**](https://www.alekseialeinikov.com/en/blog/topics/devops/sbom-wont-stop-the-next-log4j-2026) &nbsp;·&nbsp; <sub>Jul 29, 2026</sub>
 - [**The CAP Theorem, Honestly: What It Really Means When You Pick a Database**](https://www.alekseialeinikov.com/en/blog/topics/architecture/cap-theorem-2026-what-it-really-means-for-choosing-a-database) &nbsp;·&nbsp; <sub>Jul 28, 2026</sub>
 - [**The Real 2026 Engineering Skill Isn&#39;t Coding — It&#39;s Orchestrating AI**](https://www.alekseialeinikov.com/en/blog/topics/career/ai-orchestration-engineering-skill-2026) &nbsp;·&nbsp; <sub>Jul 27, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**GenAI vs Agentic AI vs AI Agents vs LLM: What&#39;s the Actual Difference?**](https://www.alekseialeinikov.com/en/blog/topics/ai/genai-vs-agentic-ai-vs-ai-agents-vs-llm-2026) &nbsp;·&nbsp; <sub>Jul 21, 2026</sub>
 - [**Is Your Career AI-Proof? What Companies Get Wrong About AI and Juniors**](https://www.alekseialeinikov.com/en/blog/topics/career/is-your-career-ai-proof-2026) &nbsp;·&nbsp; <sub>Jul 20, 2026</sub>
 - [**Data Governance on GCP in 2026: Who Can See This Data?**](https://www.alekseialeinikov.com/en/blog/topics/data/data-governance-gcp-2026) &nbsp;·&nbsp; <sub>Jul 20, 2026</sub>
-- [**OpenTofu vs Terraform in 2026: Is the Fork Worth Switching To?**](https://www.alekseialeinikov.com/en/blog/topics/devops/opentofu-vs-terraform-2026) &nbsp;·&nbsp; <sub>Jul 17, 2026</sub>
-- [**GKE Gateway API vs Ingress 2026: When to Stop Using nginx**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gke-gateway-api-vs-ingress-2026) &nbsp;·&nbsp; <sub>Jul 16, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**OpenTofu vs Terraform in 2026: Is the Fork Worth Switching To?**](https://www.alekseialeinikov.com/en/blog/topics/devops/opentofu-vs-terraform-2026) &nbsp;·&nbsp; <sub>Jul 17, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
