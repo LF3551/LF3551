@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**MCP Servers Explained: Build One, Then Run It Safely**](https://www.alekseialeinikov.com/en/blog/topics/ai/mcp-servers-explained-build-and-run-safely-2026) &nbsp;·&nbsp; <sub>Aug 3, 2026</sub>
 - [**Domain-Driven Design in 2026: A Practical Guide**](https://www.alekseialeinikov.com/en/blog/topics/architecture/domain-driven-design-2026-a-practical-guide) &nbsp;·&nbsp; <sub>Aug 1, 2026</sub>
 - [**Monolith vs Microservices in 2026: The Honest Trade-offs**](https://www.alekseialeinikov.com/en/blog/topics/architecture/monolith-vs-microservices-2026-honest-trade-offs) &nbsp;·&nbsp; <sub>Jul 31, 2026</sub>
 - [**Backups Are Not Disaster Recovery — Here&#39;s the Difference That Will Cost You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/backups-are-not-disaster-recovery-2026) &nbsp;·&nbsp; <sub>Jul 30, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**The Real 2026 Engineering Skill Isn&#39;t Coding — It&#39;s Orchestrating AI**](https://www.alekseialeinikov.com/en/blog/topics/career/ai-orchestration-engineering-skill-2026) &nbsp;·&nbsp; <sub>Jul 27, 2026</sub>
 - [**Machines Checking Machines: The Great AI-Detection Absurdity of 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/machines-checking-machines-ai-detection-absurdity-2026) &nbsp;·&nbsp; <sub>Jul 25, 2026</sub>
 - [**Platform Engineering on Kubernetes: What It Actually Is &lpar;and How to Build the Platform&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/devops/platform-engineering-on-kubernetes-2026) &nbsp;·&nbsp; <sub>Jul 23, 2026</sub>
-- [**GenAI vs Agentic AI vs AI Agents vs LLM: What&#39;s the Actual Difference?**](https://www.alekseialeinikov.com/en/blog/topics/ai/genai-vs-agentic-ai-vs-ai-agents-vs-llm-2026) &nbsp;·&nbsp; <sub>Jul 21, 2026</sub>
-- [**Is Your Career AI-Proof? What Companies Get Wrong About AI and Juniors**](https://www.alekseialeinikov.com/en/blog/topics/career/is-your-career-ai-proof-2026) &nbsp;·&nbsp; <sub>Jul 20, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**GenAI vs Agentic AI vs AI Agents vs LLM: What&#39;s the Actual Difference?**](https://www.alekseialeinikov.com/en/blog/topics/ai/genai-vs-agentic-ai-vs-ai-agents-vs-llm-2026) &nbsp;·&nbsp; <sub>Jul 21, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
