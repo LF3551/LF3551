@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Context Engineering in 2026: What Replaced Prompt Engineering**](https://www.alekseialeinikov.com/en/blog/topics/ai/context-engineering-2026-what-replaced-prompt-engineering) &nbsp;·&nbsp; <sub>Aug 7, 2026</sub>
 - [**Quantization Explained: How to Run a 70B Model on Consumer Hardware**](https://www.alekseialeinikov.com/en/blog/topics/ai/quantization-explained-run-70b-model-consumer-hardware-2026) &nbsp;·&nbsp; <sub>Aug 5, 2026</sub>
 - [**SQL vs NoSQL in 2026: Database Types, ACID vs BASE, and How to Actually Choose**](https://www.alekseialeinikov.com/en/blog/topics/data/sql-vs-nosql-2026-database-types-acid-base-how-to-choose) &nbsp;·&nbsp; <sub>Aug 4, 2026</sub>
 - [**MCP Servers Explained: Build One, Then Run It Safely**](https://www.alekseialeinikov.com/en/blog/topics/ai/mcp-servers-explained-build-and-run-safely-2026) &nbsp;·&nbsp; <sub>Aug 3, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Backups Are Not Disaster Recovery — Here&#39;s the Difference That Will Cost You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/backups-are-not-disaster-recovery-2026) &nbsp;·&nbsp; <sub>Jul 30, 2026</sub>
 - [**SBOM Won&#39;t Stop the Next Log4j — Here&#39;s What Actually Would**](https://www.alekseialeinikov.com/en/blog/topics/devops/sbom-wont-stop-the-next-log4j-2026) &nbsp;·&nbsp; <sub>Jul 29, 2026</sub>
 - [**The CAP Theorem, Honestly: What It Really Means When You Pick a Database**](https://www.alekseialeinikov.com/en/blog/topics/architecture/cap-theorem-2026-what-it-really-means-for-choosing-a-database) &nbsp;·&nbsp; <sub>Jul 28, 2026</sub>
-- [**The Real 2026 Engineering Skill Isn&#39;t Coding — It&#39;s Orchestrating AI**](https://www.alekseialeinikov.com/en/blog/topics/career/ai-orchestration-engineering-skill-2026) &nbsp;·&nbsp; <sub>Jul 27, 2026</sub>
-- [**Machines Checking Machines: The Great AI-Detection Absurdity of 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/machines-checking-machines-ai-detection-absurdity-2026) &nbsp;·&nbsp; <sub>Jul 25, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**The Real 2026 Engineering Skill Isn&#39;t Coding — It&#39;s Orchestrating AI**](https://www.alekseialeinikov.com/en/blog/topics/career/ai-orchestration-engineering-skill-2026) &nbsp;·&nbsp; <sub>Jul 27, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
