@@ -107,6 +107,8 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**OPA vs Kyverno in 2026: Kubernetes Ships Policy Now**](https://www.alekseialeinikov.com/en/blog/topics/security/opa-vs-kyverno-2026-kubernetes-policy-engine) &nbsp;·&nbsp; <sub>Aug 12, 2026</sub>
+- [**Falco in Production: Runtime Security Without Drowning in Alerts**](https://www.alekseialeinikov.com/en/blog/topics/security/falco-production-runtime-security-without-alert-fatigue-2026) &nbsp;·&nbsp; <sub>Aug 11, 2026</sub>
 - [**Tokenization vs Encryption: What Actually Takes Data Out of Scope**](https://www.alekseialeinikov.com/en/blog/topics/security/tokenization-vs-encryption-2026-what-takes-data-out-of-scope) &nbsp;·&nbsp; <sub>Aug 10, 2026</sub>
 - [**Context Engineering in 2026: What Replaced Prompt Engineering**](https://www.alekseialeinikov.com/en/blog/topics/ai/context-engineering-2026-what-replaced-prompt-engineering) &nbsp;·&nbsp; <sub>Aug 7, 2026</sub>
 - [**Quantization Explained: How to Run a 70B Model on Consumer Hardware**](https://www.alekseialeinikov.com/en/blog/topics/ai/quantization-explained-run-70b-model-consumer-hardware-2026) &nbsp;·&nbsp; <sub>Aug 5, 2026</sub>
@@ -114,9 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**MCP Servers Explained: Build One, Then Run It Safely**](https://www.alekseialeinikov.com/en/blog/topics/ai/mcp-servers-explained-build-and-run-safely-2026) &nbsp;·&nbsp; <sub>Aug 3, 2026</sub>
 - [**Domain-Driven Design in 2026: A Practical Guide**](https://www.alekseialeinikov.com/en/blog/topics/architecture/domain-driven-design-2026-a-practical-guide) &nbsp;·&nbsp; <sub>Aug 1, 2026</sub>
 - [**Monolith vs Microservices in 2026: The Honest Trade-offs**](https://www.alekseialeinikov.com/en/blog/topics/architecture/monolith-vs-microservices-2026-honest-trade-offs) &nbsp;·&nbsp; <sub>Jul 31, 2026</sub>
-- [**Backups Are Not Disaster Recovery — Here&#39;s the Difference That Will Cost You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/backups-are-not-disaster-recovery-2026) &nbsp;·&nbsp; <sub>Jul 30, 2026</sub>
-- [**SBOM Won&#39;t Stop the Next Log4j — Here&#39;s What Actually Would**](https://www.alekseialeinikov.com/en/blog/topics/devops/sbom-wont-stop-the-next-log4j-2026) &nbsp;·&nbsp; <sub>Jul 29, 2026</sub>
-- [**The CAP Theorem, Honestly: What It Really Means When You Pick a Database**](https://www.alekseialeinikov.com/en/blog/topics/architecture/cap-theorem-2026-what-it-really-means-for-choosing-a-database) &nbsp;·&nbsp; <sub>Jul 28, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Backups Are Not Disaster Recovery — Here&#39;s the Difference That Will Cost You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/backups-are-not-disaster-recovery-2026) &nbsp;·&nbsp; <sub>Jul 30, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
