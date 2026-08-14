@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Is Keycloak Free? Keycloak vs authentik and What Each Really Costs**](https://www.alekseialeinikov.com/en/blog/topics/security/is-keycloak-free-keycloak-vs-authentik-2026) &nbsp;·&nbsp; <sub>Aug 13, 2026</sub>
 - [**OPA vs Kyverno in 2026: Kubernetes Ships Policy Now**](https://www.alekseialeinikov.com/en/blog/topics/security/opa-vs-kyverno-2026-kubernetes-policy-engine) &nbsp;·&nbsp; <sub>Aug 12, 2026</sub>
 - [**Falco in Production: Runtime Security Without Drowning in Alerts**](https://www.alekseialeinikov.com/en/blog/topics/security/falco-production-runtime-security-without-alert-fatigue-2026) &nbsp;·&nbsp; <sub>Aug 11, 2026</sub>
 - [**Tokenization vs Encryption: What Actually Takes Data Out of Scope**](https://www.alekseialeinikov.com/en/blog/topics/security/tokenization-vs-encryption-2026-what-takes-data-out-of-scope) &nbsp;·&nbsp; <sub>Aug 10, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**SQL vs NoSQL in 2026: Database Types, ACID vs BASE, and How to Actually Choose**](https://www.alekseialeinikov.com/en/blog/topics/data/sql-vs-nosql-2026-database-types-acid-base-how-to-choose) &nbsp;·&nbsp; <sub>Aug 4, 2026</sub>
 - [**MCP Servers Explained: Build One, Then Run It Safely**](https://www.alekseialeinikov.com/en/blog/topics/ai/mcp-servers-explained-build-and-run-safely-2026) &nbsp;·&nbsp; <sub>Aug 3, 2026</sub>
 - [**Domain-Driven Design in 2026: A Practical Guide**](https://www.alekseialeinikov.com/en/blog/topics/architecture/domain-driven-design-2026-a-practical-guide) &nbsp;·&nbsp; <sub>Aug 1, 2026</sub>
-- [**Monolith vs Microservices in 2026: The Honest Trade-offs**](https://www.alekseialeinikov.com/en/blog/topics/architecture/monolith-vs-microservices-2026-honest-trade-offs) &nbsp;·&nbsp; <sub>Jul 31, 2026</sub>
-- [**Backups Are Not Disaster Recovery — Here&#39;s the Difference That Will Cost You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/backups-are-not-disaster-recovery-2026) &nbsp;·&nbsp; <sub>Jul 30, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Monolith vs Microservices in 2026: The Honest Trade-offs**](https://www.alekseialeinikov.com/en/blog/topics/architecture/monolith-vs-microservices-2026-honest-trade-offs) &nbsp;·&nbsp; <sub>Jul 31, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
