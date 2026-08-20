@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**DORA Metrics in 2026: Why Four Became Five &lpar;and What Most Dashboards Still Get Wrong&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/devops/dora-metrics-2026-why-four-became-five) &nbsp;·&nbsp; <sub>Aug 19, 2026</sub>
 - [**Rate Limiting in Practice: The Algorithm Matters Less Than What You Return**](https://www.alekseialeinikov.com/en/blog/topics/architecture/rate-limiting-in-practice-algorithms-headers-2026) &nbsp;·&nbsp; <sub>Aug 17, 2026</sub>
 - [**Idempotency in Practice: Why Your Retry Just Charged the Customer Twice**](https://www.alekseialeinikov.com/en/blog/topics/architecture/idempotency-in-practice-api-retries-2026) &nbsp;·&nbsp; <sub>Aug 14, 2026</sub>
 - [**Is Keycloak Free? Keycloak vs authentik and What Each Really Costs**](https://www.alekseialeinikov.com/en/blog/topics/security/is-keycloak-free-keycloak-vs-authentik-2026) &nbsp;·&nbsp; <sub>Aug 13, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Tokenization vs Encryption: What Actually Takes Data Out of Scope**](https://www.alekseialeinikov.com/en/blog/topics/security/tokenization-vs-encryption-2026-what-takes-data-out-of-scope) &nbsp;·&nbsp; <sub>Aug 10, 2026</sub>
 - [**Context Engineering in 2026: What Replaced Prompt Engineering**](https://www.alekseialeinikov.com/en/blog/topics/ai/context-engineering-2026-what-replaced-prompt-engineering) &nbsp;·&nbsp; <sub>Aug 7, 2026</sub>
 - [**Quantization Explained: How to Run a 70B Model on Consumer Hardware**](https://www.alekseialeinikov.com/en/blog/topics/ai/quantization-explained-run-70b-model-consumer-hardware-2026) &nbsp;·&nbsp; <sub>Aug 5, 2026</sub>
-- [**SQL vs NoSQL in 2026: Database Types, ACID vs BASE, and How to Actually Choose**](https://www.alekseialeinikov.com/en/blog/topics/data/sql-vs-nosql-2026-database-types-acid-base-how-to-choose) &nbsp;·&nbsp; <sub>Aug 4, 2026</sub>
-- [**MCP Servers Explained: Build One, Then Run It Safely**](https://www.alekseialeinikov.com/en/blog/topics/ai/mcp-servers-explained-build-and-run-safely-2026) &nbsp;·&nbsp; <sub>Aug 3, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**SQL vs NoSQL in 2026: Database Types, ACID vs BASE, and How to Actually Choose**](https://www.alekseialeinikov.com/en/blog/topics/data/sql-vs-nosql-2026-database-types-acid-base-how-to-choose) &nbsp;·&nbsp; <sub>Aug 4, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
