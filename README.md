@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Cloudflare R2 vs S3: What Egress Actually Costs You &lpar;and Where R2 Bills Instead&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/cloudflare-r2-vs-s3-egress-costs-2026) &nbsp;·&nbsp; <sub>Aug 21, 2026</sub>
 - [**k3s vs k0s vs MicroK8s vs RKE2: Which Kubernetes to Install When You Don&#39;t Need the Full One**](https://www.alekseialeinikov.com/en/blog/topics/devops/k3s-vs-k0s-vs-microk8s-vs-rke2-2026) &nbsp;·&nbsp; <sub>Aug 20, 2026</sub>
 - [**DORA Metrics in 2026: Why Four Became Five &lpar;and What Most Dashboards Still Get Wrong&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/devops/dora-metrics-2026-why-four-became-five) &nbsp;·&nbsp; <sub>Aug 19, 2026</sub>
 - [**Rate Limiting in Practice: The Algorithm Matters Less Than What You Return**](https://www.alekseialeinikov.com/en/blog/topics/architecture/rate-limiting-in-practice-algorithms-headers-2026) &nbsp;·&nbsp; <sub>Aug 17, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**OPA vs Kyverno in 2026: Kubernetes Ships Policy Now**](https://www.alekseialeinikov.com/en/blog/topics/security/opa-vs-kyverno-2026-kubernetes-policy-engine) &nbsp;·&nbsp; <sub>Aug 12, 2026</sub>
 - [**Falco in Production: Runtime Security Without Drowning in Alerts**](https://www.alekseialeinikov.com/en/blog/topics/security/falco-production-runtime-security-without-alert-fatigue-2026) &nbsp;·&nbsp; <sub>Aug 11, 2026</sub>
 - [**Tokenization vs Encryption: What Actually Takes Data Out of Scope**](https://www.alekseialeinikov.com/en/blog/topics/security/tokenization-vs-encryption-2026-what-takes-data-out-of-scope) &nbsp;·&nbsp; <sub>Aug 10, 2026</sub>
-- [**Context Engineering in 2026: What Replaced Prompt Engineering**](https://www.alekseialeinikov.com/en/blog/topics/ai/context-engineering-2026-what-replaced-prompt-engineering) &nbsp;·&nbsp; <sub>Aug 7, 2026</sub>
-- [**Quantization Explained: How to Run a 70B Model on Consumer Hardware**](https://www.alekseialeinikov.com/en/blog/topics/ai/quantization-explained-run-70b-model-consumer-hardware-2026) &nbsp;·&nbsp; <sub>Aug 5, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Context Engineering in 2026: What Replaced Prompt Engineering**](https://www.alekseialeinikov.com/en/blog/topics/ai/context-engineering-2026-what-replaced-prompt-engineering) &nbsp;·&nbsp; <sub>Aug 7, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
