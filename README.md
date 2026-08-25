@@ -107,6 +107,8 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**What Actually Belongs in a Landing Zone — and What Gets Pushed Into One for No Reason**](https://www.alekseialeinikov.com/en/blog/topics/cloud/what-belongs-in-a-cloud-landing-zone-2026) &nbsp;·&nbsp; <sub>Aug 25, 2026</sub>
+- [**Wazuh vs Microsoft Sentinel vs Google SecOps: The SIEM You Pick Is the Bill You Get**](https://www.alekseialeinikov.com/en/blog/topics/security/siem-pricing-wazuh-vs-sentinel-vs-google-secops-2026) &nbsp;·&nbsp; <sub>Aug 24, 2026</sub>
 - [**Cloudflare R2 vs S3: What Egress Actually Costs You &lpar;and Where R2 Bills Instead&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/cloudflare-r2-vs-s3-egress-costs-2026) &nbsp;·&nbsp; <sub>Aug 21, 2026</sub>
 - [**k3s vs k0s vs MicroK8s vs RKE2: Which Kubernetes to Install When You Don&#39;t Need the Full One**](https://www.alekseialeinikov.com/en/blog/topics/devops/k3s-vs-k0s-vs-microk8s-vs-rke2-2026) &nbsp;·&nbsp; <sub>Aug 20, 2026</sub>
 - [**DORA Metrics in 2026: Why Four Became Five &lpar;and What Most Dashboards Still Get Wrong&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/devops/dora-metrics-2026-why-four-became-five) &nbsp;·&nbsp; <sub>Aug 19, 2026</sub>
@@ -114,9 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Idempotency in Practice: Why Your Retry Just Charged the Customer Twice**](https://www.alekseialeinikov.com/en/blog/topics/architecture/idempotency-in-practice-api-retries-2026) &nbsp;·&nbsp; <sub>Aug 14, 2026</sub>
 - [**Is Keycloak Free? Keycloak vs authentik and What Each Really Costs**](https://www.alekseialeinikov.com/en/blog/topics/security/is-keycloak-free-keycloak-vs-authentik-2026) &nbsp;·&nbsp; <sub>Aug 13, 2026</sub>
 - [**OPA vs Kyverno in 2026: Kubernetes Ships Policy Now**](https://www.alekseialeinikov.com/en/blog/topics/security/opa-vs-kyverno-2026-kubernetes-policy-engine) &nbsp;·&nbsp; <sub>Aug 12, 2026</sub>
-- [**Falco in Production: Runtime Security Without Drowning in Alerts**](https://www.alekseialeinikov.com/en/blog/topics/security/falco-production-runtime-security-without-alert-fatigue-2026) &nbsp;·&nbsp; <sub>Aug 11, 2026</sub>
-- [**Tokenization vs Encryption: What Actually Takes Data Out of Scope**](https://www.alekseialeinikov.com/en/blog/topics/security/tokenization-vs-encryption-2026-what-takes-data-out-of-scope) &nbsp;·&nbsp; <sub>Aug 10, 2026</sub>
-- [**Context Engineering in 2026: What Replaced Prompt Engineering**](https://www.alekseialeinikov.com/en/blog/topics/ai/context-engineering-2026-what-replaced-prompt-engineering) &nbsp;·&nbsp; <sub>Aug 7, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Falco in Production: Runtime Security Without Drowning in Alerts**](https://www.alekseialeinikov.com/en/blog/topics/security/falco-production-runtime-security-without-alert-fatigue-2026) &nbsp;·&nbsp; <sub>Aug 11, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
