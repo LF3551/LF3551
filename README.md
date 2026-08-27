@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Managed Kubernetes: The Word Is Doing a Lot of Work**](https://www.alekseialeinikov.com/en/blog/topics/cloud/managed-kubernetes-what-eks-aks-gke-actually-manage-2026) &nbsp;·&nbsp; <sub>Aug 27, 2026</sub>
 - [**Kubernetes Autoscaling: Three Controllers That Do Not Talk to Each Other**](https://www.alekseialeinikov.com/en/blog/topics/devops/kubernetes-autoscaling-2026-hpa-vpa-cluster-autoscaler) &nbsp;·&nbsp; <sub>Aug 26, 2026</sub>
 - [**What Actually Belongs in a Landing Zone — and What Gets Pushed Into One for No Reason**](https://www.alekseialeinikov.com/en/blog/topics/cloud/what-belongs-in-a-cloud-landing-zone-2026) &nbsp;·&nbsp; <sub>Aug 25, 2026</sub>
 - [**Wazuh vs Microsoft Sentinel vs Google SecOps: The SIEM You Pick Is the Bill You Get**](https://www.alekseialeinikov.com/en/blog/topics/security/siem-pricing-wazuh-vs-sentinel-vs-google-secops-2026) &nbsp;·&nbsp; <sub>Aug 24, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**DORA Metrics in 2026: Why Four Became Five &lpar;and What Most Dashboards Still Get Wrong&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/devops/dora-metrics-2026-why-four-became-five) &nbsp;·&nbsp; <sub>Aug 19, 2026</sub>
 - [**Rate Limiting in Practice: The Algorithm Matters Less Than What You Return**](https://www.alekseialeinikov.com/en/blog/topics/architecture/rate-limiting-in-practice-algorithms-headers-2026) &nbsp;·&nbsp; <sub>Aug 17, 2026</sub>
 - [**Idempotency in Practice: Why Your Retry Just Charged the Customer Twice**](https://www.alekseialeinikov.com/en/blog/topics/architecture/idempotency-in-practice-api-retries-2026) &nbsp;·&nbsp; <sub>Aug 14, 2026</sub>
-- [**Is Keycloak Free? Keycloak vs authentik and What Each Really Costs**](https://www.alekseialeinikov.com/en/blog/topics/security/is-keycloak-free-keycloak-vs-authentik-2026) &nbsp;·&nbsp; <sub>Aug 13, 2026</sub>
-- [**OPA vs Kyverno in 2026: Kubernetes Ships Policy Now**](https://www.alekseialeinikov.com/en/blog/topics/security/opa-vs-kyverno-2026-kubernetes-policy-engine) &nbsp;·&nbsp; <sub>Aug 12, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Is Keycloak Free? Keycloak vs authentik and What Each Really Costs**](https://www.alekseialeinikov.com/en/blog/topics/security/is-keycloak-free-keycloak-vs-authentik-2026) &nbsp;·&nbsp; <sub>Aug 13, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
