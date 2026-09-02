@@ -107,6 +107,8 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Do You Need a Graph Database? What BigQuery Graph Going GA Actually Changes**](https://www.alekseialeinikov.com/en/blog/topics/data/do-you-need-a-graph-database-2026) &nbsp;·&nbsp; <sub>Sep 2, 2026</sub>
+- [**Which Embedding Model Should You Use? API vs Self-Hosted in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/which-embedding-model-api-vs-self-hosted-2026) &nbsp;·&nbsp; <sub>Sep 1, 2026</sub>
 - [**The Lethal Trifecta: A Practical Test for Prompt Injection Risk**](https://www.alekseialeinikov.com/en/blog/topics/security/prompt-injection-defense-2026-lethal-trifecta-test) &nbsp;·&nbsp; <sub>Aug 31, 2026</sub>
 - [**Do You Need a Vector Database? Postgres vs Dedicated in 2026**](https://www.alekseialeinikov.com/en/blog/topics/data/do-you-need-a-vector-database-postgres-vs-dedicated-2026) &nbsp;·&nbsp; <sub>Aug 28, 2026</sub>
 - [**Managed Kubernetes: The Word Is Doing a Lot of Work**](https://www.alekseialeinikov.com/en/blog/topics/cloud/managed-kubernetes-what-eks-aks-gke-actually-manage-2026) &nbsp;·&nbsp; <sub>Aug 27, 2026</sub>
@@ -114,9 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**What Actually Belongs in a Landing Zone — and What Gets Pushed Into One for No Reason**](https://www.alekseialeinikov.com/en/blog/topics/cloud/what-belongs-in-a-cloud-landing-zone-2026) &nbsp;·&nbsp; <sub>Aug 25, 2026</sub>
 - [**Wazuh vs Microsoft Sentinel vs Google SecOps: The SIEM You Pick Is the Bill You Get**](https://www.alekseialeinikov.com/en/blog/topics/security/siem-pricing-wazuh-vs-sentinel-vs-google-secops-2026) &nbsp;·&nbsp; <sub>Aug 24, 2026</sub>
 - [**Cloudflare R2 vs S3: What Egress Actually Costs You &lpar;and Where R2 Bills Instead&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/cloudflare-r2-vs-s3-egress-costs-2026) &nbsp;·&nbsp; <sub>Aug 21, 2026</sub>
-- [**k3s vs k0s vs MicroK8s vs RKE2: Which Kubernetes to Install When You Don&#39;t Need the Full One**](https://www.alekseialeinikov.com/en/blog/topics/devops/k3s-vs-k0s-vs-microk8s-vs-rke2-2026) &nbsp;·&nbsp; <sub>Aug 20, 2026</sub>
-- [**DORA Metrics in 2026: Why Four Became Five &lpar;and What Most Dashboards Still Get Wrong&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/devops/dora-metrics-2026-why-four-became-five) &nbsp;·&nbsp; <sub>Aug 19, 2026</sub>
-- [**Rate Limiting in Practice: The Algorithm Matters Less Than What You Return**](https://www.alekseialeinikov.com/en/blog/topics/architecture/rate-limiting-in-practice-algorithms-headers-2026) &nbsp;·&nbsp; <sub>Aug 17, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**k3s vs k0s vs MicroK8s vs RKE2: Which Kubernetes to Install When You Don&#39;t Need the Full One**](https://www.alekseialeinikov.com/en/blog/topics/devops/k3s-vs-k0s-vs-microk8s-vs-rke2-2026) &nbsp;·&nbsp; <sub>Aug 20, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
