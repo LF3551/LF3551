@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Claude Fable and Mythos Cost Twice as Much as Opus. For Agents, They Can Cost Less**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-fable-mythos-pricing-cache-read-rule) &nbsp;·&nbsp; <sub>Sep 4, 2026</sub>
 - [**The AI Certification Market Split Into Four Bands. Only One Matches Your Job**](https://www.alekseialeinikov.com/en/blog/topics/career/ai-certification-2026-what-each-one-proves) &nbsp;·&nbsp; <sub>Sep 3, 2026</sub>
 - [**Do You Need a Graph Database? What BigQuery Graph Going GA Actually Changes**](https://www.alekseialeinikov.com/en/blog/topics/data/do-you-need-a-graph-database-2026) &nbsp;·&nbsp; <sub>Sep 2, 2026</sub>
 - [**Which Embedding Model Should You Use? API vs Self-Hosted in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/which-embedding-model-api-vs-self-hosted-2026) &nbsp;·&nbsp; <sub>Sep 1, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Managed Kubernetes: The Word Is Doing a Lot of Work**](https://www.alekseialeinikov.com/en/blog/topics/cloud/managed-kubernetes-what-eks-aks-gke-actually-manage-2026) &nbsp;·&nbsp; <sub>Aug 27, 2026</sub>
 - [**Kubernetes Autoscaling: Three Controllers That Do Not Talk to Each Other**](https://www.alekseialeinikov.com/en/blog/topics/devops/kubernetes-autoscaling-2026-hpa-vpa-cluster-autoscaler) &nbsp;·&nbsp; <sub>Aug 26, 2026</sub>
 - [**What Actually Belongs in a Landing Zone — and What Gets Pushed Into One for No Reason**](https://www.alekseialeinikov.com/en/blog/topics/cloud/what-belongs-in-a-cloud-landing-zone-2026) &nbsp;·&nbsp; <sub>Aug 25, 2026</sub>
-- [**Wazuh vs Microsoft Sentinel vs Google SecOps: The SIEM You Pick Is the Bill You Get**](https://www.alekseialeinikov.com/en/blog/topics/security/siem-pricing-wazuh-vs-sentinel-vs-google-secops-2026) &nbsp;·&nbsp; <sub>Aug 24, 2026</sub>
-- [**Cloudflare R2 vs S3: What Egress Actually Costs You &lpar;and Where R2 Bills Instead&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/cloudflare-r2-vs-s3-egress-costs-2026) &nbsp;·&nbsp; <sub>Aug 21, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Wazuh vs Microsoft Sentinel vs Google SecOps: The SIEM You Pick Is the Bill You Get**](https://www.alekseialeinikov.com/en/blog/topics/security/siem-pricing-wazuh-vs-sentinel-vs-google-secops-2026) &nbsp;·&nbsp; <sub>Aug 24, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
