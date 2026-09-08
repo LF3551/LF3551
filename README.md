@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Iceberg vs Delta Lake in 2026: A Plain Guide to Picking One**](https://www.alekseialeinikov.com/en/blog/topics/data/iceberg-vs-delta-lake-2026) &nbsp;·&nbsp; <sub>Sep 8, 2026</sub>
 - [**App Engine vs Cloud Run: Google Picked a Side. Your Bill Might Not Agree**](https://www.alekseialeinikov.com/en/blog/topics/cloud/app-engine-vs-cloud-run-2026) &nbsp;·&nbsp; <sub>Sep 7, 2026</sub>
 - [**Claude Fable and Mythos Cost Twice as Much as Opus. For Agents, They Can Cost Less**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-fable-mythos-pricing-cache-read-rule) &nbsp;·&nbsp; <sub>Sep 4, 2026</sub>
 - [**The AI Certification Market Split Into Four Bands. Only One Matches Your Job**](https://www.alekseialeinikov.com/en/blog/topics/career/ai-certification-2026-what-each-one-proves) &nbsp;·&nbsp; <sub>Sep 3, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**The Lethal Trifecta: A Practical Test for Prompt Injection Risk**](https://www.alekseialeinikov.com/en/blog/topics/security/prompt-injection-defense-2026-lethal-trifecta-test) &nbsp;·&nbsp; <sub>Aug 31, 2026</sub>
 - [**Do You Need a Vector Database? Postgres vs Dedicated in 2026**](https://www.alekseialeinikov.com/en/blog/topics/data/do-you-need-a-vector-database-postgres-vs-dedicated-2026) &nbsp;·&nbsp; <sub>Aug 28, 2026</sub>
 - [**Managed Kubernetes: The Word Is Doing a Lot of Work**](https://www.alekseialeinikov.com/en/blog/topics/cloud/managed-kubernetes-what-eks-aks-gke-actually-manage-2026) &nbsp;·&nbsp; <sub>Aug 27, 2026</sub>
-- [**Kubernetes Autoscaling: Three Controllers That Do Not Talk to Each Other**](https://www.alekseialeinikov.com/en/blog/topics/devops/kubernetes-autoscaling-2026-hpa-vpa-cluster-autoscaler) &nbsp;·&nbsp; <sub>Aug 26, 2026</sub>
-- [**What Actually Belongs in a Landing Zone — and What Gets Pushed Into One for No Reason**](https://www.alekseialeinikov.com/en/blog/topics/cloud/what-belongs-in-a-cloud-landing-zone-2026) &nbsp;·&nbsp; <sub>Aug 25, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Kubernetes Autoscaling: Three Controllers That Do Not Talk to Each Other**](https://www.alekseialeinikov.com/en/blog/topics/devops/kubernetes-autoscaling-2026-hpa-vpa-cluster-autoscaler) &nbsp;·&nbsp; <sub>Aug 26, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
