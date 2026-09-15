@@ -107,6 +107,8 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**vLLM vs Ollama: Which Inference Server You Actually Need in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/vllm-vs-ollama-inference-server-2026) &nbsp;·&nbsp; <sub>Sep 15, 2026</sub>
+- [**Passkeys vs Passwords: How WebAuthn Actually Works, Who Builds What, and How to Roll It Out**](https://www.alekseialeinikov.com/en/blog/topics/security/passkeys-vs-passwords-webauthn-how-it-works-2026) &nbsp;·&nbsp; <sub>Sep 14, 2026</sub>
 - [**Scalability: The Bottleneck Is Almost Never the CPU**](https://www.alekseialeinikov.com/en/blog/topics/architecture/scalability-bottleneck-is-not-the-cpu-2026) &nbsp;·&nbsp; <sub>Sep 11, 2026</sub>
 - [**Postgres vs MySQL in 2026: Performance, Syntax and the Real Differences**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-vs-mysql-2026) &nbsp;·&nbsp; <sub>Sep 10, 2026</sub>
 - [**npm Supply Chain Attack Mitigation: What Actually Works**](https://www.alekseialeinikov.com/en/blog/topics/security/npm-supply-chain-attack-mitigation-2026) &nbsp;·&nbsp; <sub>Sep 9, 2026</sub>
@@ -114,9 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**App Engine vs Cloud Run: Google Picked a Side. Your Bill Might Not Agree**](https://www.alekseialeinikov.com/en/blog/topics/cloud/app-engine-vs-cloud-run-2026) &nbsp;·&nbsp; <sub>Sep 7, 2026</sub>
 - [**Claude Fable and Mythos Cost Twice as Much as Opus. For Agents, They Can Cost Less**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-fable-mythos-pricing-cache-read-rule) &nbsp;·&nbsp; <sub>Sep 4, 2026</sub>
 - [**The AI Certification Market Split Into Four Bands. Only One Matches Your Job**](https://www.alekseialeinikov.com/en/blog/topics/career/ai-certification-2026-what-each-one-proves) &nbsp;·&nbsp; <sub>Sep 3, 2026</sub>
-- [**Do You Need a Graph Database? What BigQuery Graph Going GA Actually Changes**](https://www.alekseialeinikov.com/en/blog/topics/data/do-you-need-a-graph-database-2026) &nbsp;·&nbsp; <sub>Sep 2, 2026</sub>
-- [**Which Embedding Model Should You Use? API vs Self-Hosted in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/which-embedding-model-api-vs-self-hosted-2026) &nbsp;·&nbsp; <sub>Sep 1, 2026</sub>
-- [**The Lethal Trifecta: A Practical Test for Prompt Injection Risk**](https://www.alekseialeinikov.com/en/blog/topics/security/prompt-injection-defense-2026-lethal-trifecta-test) &nbsp;·&nbsp; <sub>Aug 31, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Do You Need a Graph Database? What BigQuery Graph Going GA Actually Changes**](https://www.alekseialeinikov.com/en/blog/topics/data/do-you-need-a-graph-database-2026) &nbsp;·&nbsp; <sub>Sep 2, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
