@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Migrating from Jest to Vitest: What Actually Breaks**](https://www.alekseialeinikov.com/en/blog/topics/programming/jest-to-vitest-migration) &nbsp;·&nbsp; <sub>Sep 18, 2026</sub>
 - [**Five Python Libraries for Data Visualization: Which One and When**](https://www.alekseialeinikov.com/en/blog/topics/programming/python-data-visualization-libraries) &nbsp;·&nbsp; <sub>Sep 17, 2026</sub>
 - [**The Cloud Bill You Did Not Estimate: FinOps Across AWS, GCP and Azure**](https://www.alekseialeinikov.com/en/blog/topics/cloud/cloud-cost-optimization-2026-aws-vs-gcp-vs-azure) &nbsp;·&nbsp; <sub>Sep 16, 2026</sub>
 - [**vLLM vs Ollama: Which Inference Server You Actually Need in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/vllm-vs-ollama-inference-server-2026) &nbsp;·&nbsp; <sub>Sep 15, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Postgres vs MySQL in 2026: Performance, Syntax and the Real Differences**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-vs-mysql-2026) &nbsp;·&nbsp; <sub>Sep 10, 2026</sub>
 - [**npm Supply Chain Attack Mitigation: What Actually Works**](https://www.alekseialeinikov.com/en/blog/topics/security/npm-supply-chain-attack-mitigation-2026) &nbsp;·&nbsp; <sub>Sep 9, 2026</sub>
 - [**Iceberg vs Delta Lake in 2026: A Plain Guide to Picking One**](https://www.alekseialeinikov.com/en/blog/topics/data/iceberg-vs-delta-lake-2026) &nbsp;·&nbsp; <sub>Sep 8, 2026</sub>
-- [**App Engine vs Cloud Run: Google Picked a Side. Your Bill Might Not Agree**](https://www.alekseialeinikov.com/en/blog/topics/cloud/app-engine-vs-cloud-run-2026) &nbsp;·&nbsp; <sub>Sep 7, 2026</sub>
-- [**Claude Fable and Mythos Cost Twice as Much as Opus. For Agents, They Can Cost Less**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-fable-mythos-pricing-cache-read-rule) &nbsp;·&nbsp; <sub>Sep 4, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**App Engine vs Cloud Run: Google Picked a Side. Your Bill Might Not Agree**](https://www.alekseialeinikov.com/en/blog/topics/cloud/app-engine-vs-cloud-run-2026) &nbsp;·&nbsp; <sub>Sep 7, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
