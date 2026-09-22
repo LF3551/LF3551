@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Kubernetes 1.35 to 1.38: What Actually Changes in Production**](https://www.alekseialeinikov.com/en/blog/topics/devops/kubernetes-135-136-137-138-production-changes) &nbsp;·&nbsp; <sub>Sep 22, 2026</sub>
 - [**Jev vs GPT-5 and Claude for Classification and Routing**](https://www.alekseialeinikov.com/en/blog/topics/ai/jev-vs-gpt-5-claude-classification-routing) &nbsp;·&nbsp; <sub>Sep 21, 2026</sub>
 - [**Migrating from Jest to Vitest: What Actually Breaks**](https://www.alekseialeinikov.com/en/blog/topics/programming/jest-to-vitest-migration) &nbsp;·&nbsp; <sub>Sep 18, 2026</sub>
 - [**Five Python Libraries for Data Visualization: Which One and When**](https://www.alekseialeinikov.com/en/blog/topics/programming/python-data-visualization-libraries) &nbsp;·&nbsp; <sub>Sep 17, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Passkeys vs Passwords: How WebAuthn Actually Works, Who Builds What, and How to Roll It Out**](https://www.alekseialeinikov.com/en/blog/topics/security/passkeys-vs-passwords-webauthn-how-it-works-2026) &nbsp;·&nbsp; <sub>Sep 14, 2026</sub>
 - [**Scalability: The Bottleneck Is Almost Never the CPU**](https://www.alekseialeinikov.com/en/blog/topics/architecture/scalability-bottleneck-is-not-the-cpu-2026) &nbsp;·&nbsp; <sub>Sep 11, 2026</sub>
 - [**Postgres vs MySQL in 2026: Performance, Syntax and the Real Differences**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-vs-mysql-2026) &nbsp;·&nbsp; <sub>Sep 10, 2026</sub>
-- [**npm Supply Chain Attack Mitigation: What Actually Works**](https://www.alekseialeinikov.com/en/blog/topics/security/npm-supply-chain-attack-mitigation-2026) &nbsp;·&nbsp; <sub>Sep 9, 2026</sub>
-- [**Iceberg vs Delta Lake in 2026: A Plain Guide to Picking One**](https://www.alekseialeinikov.com/en/blog/topics/data/iceberg-vs-delta-lake-2026) &nbsp;·&nbsp; <sub>Sep 8, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**npm Supply Chain Attack Mitigation: What Actually Works**](https://www.alekseialeinikov.com/en/blog/topics/security/npm-supply-chain-attack-mitigation-2026) &nbsp;·&nbsp; <sub>Sep 9, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
