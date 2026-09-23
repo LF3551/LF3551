@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**SQLite in Go: Drivers, WAL, Locking and Production Patterns**](https://www.alekseialeinikov.com/en/blog/topics/programming/sqlite-in-go-drivers-wal-locking-production-patterns) &nbsp;·&nbsp; <sub>Sep 23, 2026</sub>
 - [**Kubernetes 1.35 to 1.38: What Actually Changes in Production**](https://www.alekseialeinikov.com/en/blog/topics/devops/kubernetes-135-136-137-138-production-changes) &nbsp;·&nbsp; <sub>Sep 22, 2026</sub>
 - [**Jev vs GPT-5 and Claude for Classification and Routing**](https://www.alekseialeinikov.com/en/blog/topics/ai/jev-vs-gpt-5-claude-classification-routing) &nbsp;·&nbsp; <sub>Sep 21, 2026</sub>
 - [**Migrating from Jest to Vitest: What Actually Breaks**](https://www.alekseialeinikov.com/en/blog/topics/programming/jest-to-vitest-migration) &nbsp;·&nbsp; <sub>Sep 18, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**vLLM vs Ollama: Which Inference Server You Actually Need in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/vllm-vs-ollama-inference-server-2026) &nbsp;·&nbsp; <sub>Sep 15, 2026</sub>
 - [**Passkeys vs Passwords: How WebAuthn Actually Works, Who Builds What, and How to Roll It Out**](https://www.alekseialeinikov.com/en/blog/topics/security/passkeys-vs-passwords-webauthn-how-it-works-2026) &nbsp;·&nbsp; <sub>Sep 14, 2026</sub>
 - [**Scalability: The Bottleneck Is Almost Never the CPU**](https://www.alekseialeinikov.com/en/blog/topics/architecture/scalability-bottleneck-is-not-the-cpu-2026) &nbsp;·&nbsp; <sub>Sep 11, 2026</sub>
-- [**Postgres vs MySQL in 2026: Performance, Syntax and the Real Differences**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-vs-mysql-2026) &nbsp;·&nbsp; <sub>Sep 10, 2026</sub>
-- [**npm Supply Chain Attack Mitigation: What Actually Works**](https://www.alekseialeinikov.com/en/blog/topics/security/npm-supply-chain-attack-mitigation-2026) &nbsp;·&nbsp; <sub>Sep 9, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Postgres vs MySQL in 2026: Performance, Syntax and the Real Differences**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-vs-mysql-2026) &nbsp;·&nbsp; <sub>Sep 10, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
