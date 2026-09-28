@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Claude Code Modes Compared: Why Plan Mode Died and What Replaced It**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-code-modes-compared-why-plan-mode-died) &nbsp;·&nbsp; <sub>Sep 28, 2026</sub>
 - [**Rogue AI Agents Hacked a Government Site — Nobody Told Them To**](https://www.alekseialeinikov.com/en/blog/topics/security/rogue-ai-agents-hacked-government-website-2026) &nbsp;·&nbsp; <sub>Sep 25, 2026</sub>
 - [**AWS vs Google Cloud vs Azure Free Tier: What Is Actually Free, and What Bills You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/aws-vs-google-cloud-vs-azure-free-tier) &nbsp;·&nbsp; <sub>Sep 24, 2026</sub>
 - [**SQLite in Go: Drivers, WAL, Locking and Production Patterns**](https://www.alekseialeinikov.com/en/blog/topics/programming/sqlite-in-go-drivers-wal-locking-production-patterns) &nbsp;·&nbsp; <sub>Sep 23, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Migrating from Jest to Vitest: What Actually Breaks**](https://www.alekseialeinikov.com/en/blog/topics/programming/jest-to-vitest-migration) &nbsp;·&nbsp; <sub>Sep 18, 2026</sub>
 - [**Five Python Libraries for Data Visualization: Which One and When**](https://www.alekseialeinikov.com/en/blog/topics/programming/python-data-visualization-libraries) &nbsp;·&nbsp; <sub>Sep 17, 2026</sub>
 - [**The Cloud Bill You Did Not Estimate: FinOps Across AWS, GCP and Azure**](https://www.alekseialeinikov.com/en/blog/topics/cloud/cloud-cost-optimization-2026-aws-vs-gcp-vs-azure) &nbsp;·&nbsp; <sub>Sep 16, 2026</sub>
-- [**vLLM vs Ollama: Which Inference Server You Actually Need in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/vllm-vs-ollama-inference-server-2026) &nbsp;·&nbsp; <sub>Sep 15, 2026</sub>
-- [**Passkeys vs Passwords: How WebAuthn Actually Works, Who Builds What, and How to Roll It Out**](https://www.alekseialeinikov.com/en/blog/topics/security/passkeys-vs-passwords-webauthn-how-it-works-2026) &nbsp;·&nbsp; <sub>Sep 14, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**vLLM vs Ollama: Which Inference Server You Actually Need in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/vllm-vs-ollama-inference-server-2026) &nbsp;·&nbsp; <sub>Sep 15, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
