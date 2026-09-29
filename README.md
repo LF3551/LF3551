@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Claude Sonnet 5.5 vs Opus 5.5: Half the Price, Nearly the Same Scores — and a Routing Trap**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Sep 29, 2026</sub>
 - [**Claude Code Modes Compared: Why Plan Mode Died and What Replaced It**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-code-modes-compared-why-plan-mode-died) &nbsp;·&nbsp; <sub>Sep 28, 2026</sub>
 - [**Rogue AI Agents Hacked a Government Site — Nobody Told Them To**](https://www.alekseialeinikov.com/en/blog/topics/security/rogue-ai-agents-hacked-government-website-2026) &nbsp;·&nbsp; <sub>Sep 25, 2026</sub>
 - [**AWS vs Google Cloud vs Azure Free Tier: What Is Actually Free, and What Bills You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/aws-vs-google-cloud-vs-azure-free-tier) &nbsp;·&nbsp; <sub>Sep 24, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Jev vs GPT-5 and Claude for Classification and Routing**](https://www.alekseialeinikov.com/en/blog/topics/ai/jev-vs-gpt-5-claude-classification-routing) &nbsp;·&nbsp; <sub>Sep 21, 2026</sub>
 - [**Migrating from Jest to Vitest: What Actually Breaks**](https://www.alekseialeinikov.com/en/blog/topics/programming/jest-to-vitest-migration) &nbsp;·&nbsp; <sub>Sep 18, 2026</sub>
 - [**Five Python Libraries for Data Visualization: Which One and When**](https://www.alekseialeinikov.com/en/blog/topics/programming/python-data-visualization-libraries) &nbsp;·&nbsp; <sub>Sep 17, 2026</sub>
-- [**The Cloud Bill You Did Not Estimate: FinOps Across AWS, GCP and Azure**](https://www.alekseialeinikov.com/en/blog/topics/cloud/cloud-cost-optimization-2026-aws-vs-gcp-vs-azure) &nbsp;·&nbsp; <sub>Sep 16, 2026</sub>
-- [**vLLM vs Ollama: Which Inference Server You Actually Need in 2026**](https://www.alekseialeinikov.com/en/blog/topics/ai/vllm-vs-ollama-inference-server-2026) &nbsp;·&nbsp; <sub>Sep 15, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**The Cloud Bill You Did Not Estimate: FinOps Across AWS, GCP and Azure**](https://www.alekseialeinikov.com/en/blog/topics/cloud/cloud-cost-optimization-2026-aws-vs-gcp-vs-azure) &nbsp;·&nbsp; <sub>Sep 16, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
