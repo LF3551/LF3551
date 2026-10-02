@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Gemini 4 Argon on Google Cloud: What Actually Changes for Platform Teams &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gemini-4-argon-google-cloud-platform-teams) &nbsp;·&nbsp; <sub>Oct 2, 2026</sub>
 - [**Agent Skills Explained: SKILL.md, Claude Skills and When to Use Them Instead of MCP**](https://www.alekseialeinikov.com/en/blog/topics/ai/agent-skills-explained-skill-md-vs-mcp) &nbsp;·&nbsp; <sub>Oct 1, 2026</sub>
 - [**WebMCP Explained: How Chrome Turns Your Website Into an MCP Server for AI Agents**](https://www.alekseialeinikov.com/en/blog/topics/ai/webmcp-explained-chrome-ai-agents-mcp-tools) &nbsp;·&nbsp; <sub>Sep 30, 2026</sub>
 - [**Claude Sonnet 5.5 vs Opus 5.5: Half the Price, Nearly the Same Scores — and a Routing Trap**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Sep 29, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**AWS vs Google Cloud vs Azure Free Tier: What Is Actually Free, and What Bills You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/aws-vs-google-cloud-vs-azure-free-tier) &nbsp;·&nbsp; <sub>Sep 24, 2026</sub>
 - [**SQLite in Go: Drivers, WAL, Locking and Production Patterns**](https://www.alekseialeinikov.com/en/blog/topics/programming/sqlite-in-go-drivers-wal-locking-production-patterns) &nbsp;·&nbsp; <sub>Sep 23, 2026</sub>
 - [**Kubernetes 1.35 to 1.38: What Actually Changes in Production**](https://www.alekseialeinikov.com/en/blog/topics/devops/kubernetes-135-136-137-138-production-changes) &nbsp;·&nbsp; <sub>Sep 22, 2026</sub>
-- [**Jev vs GPT-5 and Claude for Classification and Routing**](https://www.alekseialeinikov.com/en/blog/topics/ai/jev-vs-gpt-5-claude-classification-routing) &nbsp;·&nbsp; <sub>Sep 21, 2026</sub>
-- [**Migrating from Jest to Vitest: What Actually Breaks**](https://www.alekseialeinikov.com/en/blog/topics/programming/jest-to-vitest-migration) &nbsp;·&nbsp; <sub>Sep 18, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Jev vs GPT-5 and Claude for Classification and Routing**](https://www.alekseialeinikov.com/en/blog/topics/ai/jev-vs-gpt-5-claude-classification-routing) &nbsp;·&nbsp; <sub>Sep 21, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
