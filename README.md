@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5: 20× Cheaper Than Sonnet — and a 100K-Token Price Cliff**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Oct 8, 2026</sub>
 - [**shadcn/ui vs MUI vs Mantine: I Built the Same Screen Five Ways and Measured It**](https://www.alekseialeinikov.com/en/blog/topics/programming/shadcn-ui-vs-mui-vs-mantine) &nbsp;·&nbsp; <sub>Oct 7, 2026</sub>
 - [**GPT-6.1 Sol vs Claude Opus 5.5: Half the Price, a Different Tier — and Where the Gap Disappears**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-sol-vs-claude-opus-5-5) &nbsp;·&nbsp; <sub>Oct 6, 2026</sub>
 - [**Cilium vs Calico: Which Kubernetes CNI Should Run Your Production Cluster?**](https://www.alekseialeinikov.com/en/blog/topics/devops/cilium-vs-calico-kubernetes-cni) &nbsp;·&nbsp; <sub>Oct 5, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**WebMCP Explained: How Chrome Turns Your Website Into an MCP Server for AI Agents**](https://www.alekseialeinikov.com/en/blog/topics/ai/webmcp-explained-chrome-ai-agents-mcp-tools) &nbsp;·&nbsp; <sub>Sep 30, 2026</sub>
 - [**Claude Sonnet 5.5 vs Opus 5.5: Half the Price, Nearly the Same Scores — and a Routing Trap**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Sep 29, 2026</sub>
 - [**Claude Code Modes Compared: Why Plan Mode Died and What Replaced It**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-code-modes-compared-why-plan-mode-died) &nbsp;·&nbsp; <sub>Sep 28, 2026</sub>
-- [**Rogue AI Agents Hacked a Government Site — Nobody Told Them To**](https://www.alekseialeinikov.com/en/blog/topics/security/rogue-ai-agents-hacked-government-website-2026) &nbsp;·&nbsp; <sub>Sep 25, 2026</sub>
-- [**AWS vs Google Cloud vs Azure Free Tier: What Is Actually Free, and What Bills You**](https://www.alekseialeinikov.com/en/blog/topics/cloud/aws-vs-google-cloud-vs-azure-free-tier) &nbsp;·&nbsp; <sub>Sep 24, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Rogue AI Agents Hacked a Government Site — Nobody Told Them To**](https://www.alekseialeinikov.com/en/blog/topics/security/rogue-ai-agents-hacked-government-website-2026) &nbsp;·&nbsp; <sub>Sep 25, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
