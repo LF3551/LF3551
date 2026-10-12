@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Mistral Large 4 vs Kolibri vs Beam: Three Open-Weight LLMs in Four Days — Which One to Self-Host**](https://www.alekseialeinikov.com/en/blog/topics/ai/mistral-large-4-vs-kolibri-vs-beam-open-weight-llm) &nbsp;·&nbsp; <sub>Oct 12, 2026</sub>
 - [**Google reCAPTCHA Explained: v2 vs v3 vs Enterprise, Pricing, Scores and Every Key Type**](https://www.alekseialeinikov.com/en/blog/topics/security/google-recaptcha-v2-vs-v3-vs-enterprise-guide) &nbsp;·&nbsp; <sub>Oct 9, 2026</sub>
 - [**Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5: 20× Cheaper Than Sonnet — and a 100K-Token Price Cliff**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Oct 8, 2026</sub>
 - [**shadcn/ui vs MUI vs Mantine: I Built the Same Screen Five Ways and Measured It**](https://www.alekseialeinikov.com/en/blog/topics/programming/shadcn-ui-vs-mui-vs-mantine) &nbsp;·&nbsp; <sub>Oct 7, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**Gemini 4 Argon on Google Cloud: What Actually Changes for Platform Teams &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gemini-4-argon-google-cloud-platform-teams) &nbsp;·&nbsp; <sub>Oct 2, 2026</sub>
 - [**Agent Skills Explained: SKILL.md, Claude Skills and When to Use Them Instead of MCP**](https://www.alekseialeinikov.com/en/blog/topics/ai/agent-skills-explained-skill-md-vs-mcp) &nbsp;·&nbsp; <sub>Oct 1, 2026</sub>
 - [**WebMCP Explained: How Chrome Turns Your Website Into an MCP Server for AI Agents**](https://www.alekseialeinikov.com/en/blog/topics/ai/webmcp-explained-chrome-ai-agents-mcp-tools) &nbsp;·&nbsp; <sub>Sep 30, 2026</sub>
-- [**Claude Sonnet 5.5 vs Opus 5.5: Half the Price, Nearly the Same Scores — and a Routing Trap**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Sep 29, 2026</sub>
-- [**Claude Code Modes Compared: Why Plan Mode Died and What Replaced It**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-code-modes-compared-why-plan-mode-died) &nbsp;·&nbsp; <sub>Sep 28, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Claude Sonnet 5.5 vs Opus 5.5: Half the Price, Nearly the Same Scores — and a Routing Trap**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Sep 29, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
