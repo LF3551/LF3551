@@ -107,6 +107,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**NIS2 for Cloud Teams, Part 1: Requirements Checklist for AWS, Azure and Google Cloud**](https://www.alekseialeinikov.com/en/blog/topics/security/nis2-compliance-checklist-aws-azure-google-cloud) &nbsp;·&nbsp; <sub>Oct 15, 2026</sub>
 - [**OpenTelemetry Explained: Traces, Metrics, Logs and the Collector**](https://www.alekseialeinikov.com/en/blog/topics/devops/opentelemetry-explained-collector-otlp-tracing) &nbsp;·&nbsp; <sub>Oct 14, 2026</sub>
 - [**Webhooks Explained: How They Work, How to Secure Them, How to Scale Them**](https://www.alekseialeinikov.com/en/blog/topics/architecture/webhooks-explained-signatures-retries-idempotency) &nbsp;·&nbsp; <sub>Oct 13, 2026</sub>
 - [**Mistral Large 4 vs Kolibri vs Beam: Three Open-Weight LLMs in Four Days — Which One to Self-Host**](https://www.alekseialeinikov.com/en/blog/topics/ai/mistral-large-4-vs-kolibri-vs-beam-open-weight-llm) &nbsp;·&nbsp; <sub>Oct 12, 2026</sub>
@@ -115,8 +116,7 @@ Currently working at **T-Digital by Deutsche Telekom**, designing and operating 
 - [**shadcn/ui vs MUI vs Mantine: I Built the Same Screen Five Ways and Measured It**](https://www.alekseialeinikov.com/en/blog/topics/programming/shadcn-ui-vs-mui-vs-mantine) &nbsp;·&nbsp; <sub>Oct 7, 2026</sub>
 - [**GPT-6.1 Sol vs Claude Opus 5.5: Half the Price, a Different Tier — and Where the Gap Disappears**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-sol-vs-claude-opus-5-5) &nbsp;·&nbsp; <sub>Oct 6, 2026</sub>
 - [**Cilium vs Calico: Which Kubernetes CNI Should Run Your Production Cluster?**](https://www.alekseialeinikov.com/en/blog/topics/devops/cilium-vs-calico-kubernetes-cni) &nbsp;·&nbsp; <sub>Oct 5, 2026</sub>
-- [**Gemini 4 Argon on Google Cloud: What Actually Changes for Platform Teams &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gemini-4-argon-google-cloud-platform-teams) &nbsp;·&nbsp; <sub>Oct 2, 2026</sub>
-- [**Agent Skills Explained: SKILL.md, Claude Skills and When to Use Them Instead of MCP**](https://www.alekseialeinikov.com/en/blog/topics/ai/agent-skills-explained-skill-md-vs-mcp) &nbsp;·&nbsp; <sub>Oct 1, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Gemini 4 Argon on Google Cloud: What Actually Changes for Platform Teams &lpar;2026&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/gemini-4-argon-google-cloud-platform-teams) &nbsp;·&nbsp; <sub>Oct 2, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
