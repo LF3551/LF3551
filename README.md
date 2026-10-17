@@ -22,7 +22,7 @@
 
 Senior Cloud Platform & Security Engineer with 12+ years of experience designing, securing and operating cloud-native platforms in enterprise environments. My work sits at the intersection of **platform engineering**, **cloud security**, and **software engineering** — building delivery foundations that are secure by default, predictable under change, and easy for engineering teams to operate at scale.
 
-Currently working at **T-Digital by Deutsche Telekom**, designing and operating production GCP platforms with a focus on IAM architecture, Zero Trust, Kubernetes security, and cloud-native observability.
+Currently designing and operating production GCP platforms in an enterprise environment, with a focus on IAM architecture, Zero Trust, Kubernetes security, and cloud-native observability.
 
 **Recognition**
 
