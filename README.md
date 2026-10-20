@@ -107,6 +107,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**DuckDB Explained: When a Database on Your Laptop Beats SQLite, Polars and BigQuery**](https://www.alekseialeinikov.com/en/blog/topics/data/duckdb-explained-vs-sqlite-polars-bigquery) &nbsp;·&nbsp; <sub>Oct 20, 2026</sub>
 - [**The Outbox Pattern: Reliable Events Without Distributed Transactions**](https://www.alekseialeinikov.com/en/blog/topics/architecture/transactional-outbox-pattern) &nbsp;·&nbsp; <sub>Oct 19, 2026</sub>
 - [**Muse Spark Open vs GLM 5.3 vs Kimi K3: Meta&#39;s Open Model Isn&#39;t the Smartest. It&#39;s the Cheapest to Run**](https://www.alekseialeinikov.com/en/blog/topics/ai/muse-spark-open-vs-glm-5-3-vs-kimi-k3) &nbsp;·&nbsp; <sub>Oct 16, 2026</sub>
 - [**NIS2 for Cloud Teams, Part 1: Requirements Checklist for AWS, Azure and Google Cloud**](https://www.alekseialeinikov.com/en/blog/topics/security/nis2-compliance-checklist-aws-azure-google-cloud) &nbsp;·&nbsp; <sub>Oct 15, 2026</sub>
@@ -115,8 +116,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**Mistral Large 4 vs Kolibri vs Beam: Three Open-Weight LLMs in Four Days — Which One to Self-Host**](https://www.alekseialeinikov.com/en/blog/topics/ai/mistral-large-4-vs-kolibri-vs-beam-open-weight-llm) &nbsp;·&nbsp; <sub>Oct 12, 2026</sub>
 - [**Google reCAPTCHA Explained: v2 vs v3 vs Enterprise, Pricing, Scores and Every Key Type**](https://www.alekseialeinikov.com/en/blog/topics/security/google-recaptcha-v2-vs-v3-vs-enterprise-guide) &nbsp;·&nbsp; <sub>Oct 9, 2026</sub>
 - [**Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5: 20× Cheaper Than Sonnet — and a 100K-Token Price Cliff**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Oct 8, 2026</sub>
-- [**shadcn/ui vs MUI vs Mantine: I Built the Same Screen Five Ways and Measured It**](https://www.alekseialeinikov.com/en/blog/topics/programming/shadcn-ui-vs-mui-vs-mantine) &nbsp;·&nbsp; <sub>Oct 7, 2026</sub>
-- [**GPT-6.1 Sol vs Claude Opus 5.5: Half the Price, a Different Tier — and Where the Gap Disappears**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-sol-vs-claude-opus-5-5) &nbsp;·&nbsp; <sub>Oct 6, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**shadcn/ui vs MUI vs Mantine: I Built the Same Screen Five Ways and Measured It**](https://www.alekseialeinikov.com/en/blog/topics/programming/shadcn-ui-vs-mui-vs-mantine) &nbsp;·&nbsp; <sub>Oct 7, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
