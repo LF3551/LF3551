@@ -107,6 +107,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**TypeScript 7 vs TypeScript 6: What Changed, What Breaks and How to Upgrade**](https://www.alekseialeinikov.com/en/blog/topics/programming/typescript-7-vs-typescript-6-native-compiler-upgrade-guide) &nbsp;·&nbsp; <sub>Oct 21, 2026</sub>
 - [**DuckDB Explained: When a Database on Your Laptop Beats SQLite, Polars and BigQuery**](https://www.alekseialeinikov.com/en/blog/topics/data/duckdb-explained-vs-sqlite-polars-bigquery) &nbsp;·&nbsp; <sub>Oct 20, 2026</sub>
 - [**The Outbox Pattern: Reliable Events Without Distributed Transactions**](https://www.alekseialeinikov.com/en/blog/topics/architecture/transactional-outbox-pattern) &nbsp;·&nbsp; <sub>Oct 19, 2026</sub>
 - [**Muse Spark Open vs GLM 5.3 vs Kimi K3: Meta&#39;s Open Model Isn&#39;t the Smartest. It&#39;s the Cheapest to Run**](https://www.alekseialeinikov.com/en/blog/topics/ai/muse-spark-open-vs-glm-5-3-vs-kimi-k3) &nbsp;·&nbsp; <sub>Oct 16, 2026</sub>
@@ -115,8 +116,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**Webhooks Explained: How They Work, How to Secure Them, How to Scale Them**](https://www.alekseialeinikov.com/en/blog/topics/architecture/webhooks-explained-signatures-retries-idempotency) &nbsp;·&nbsp; <sub>Oct 13, 2026</sub>
 - [**Mistral Large 4 vs Kolibri vs Beam: Three Open-Weight LLMs in Four Days — Which One to Self-Host**](https://www.alekseialeinikov.com/en/blog/topics/ai/mistral-large-4-vs-kolibri-vs-beam-open-weight-llm) &nbsp;·&nbsp; <sub>Oct 12, 2026</sub>
 - [**Google reCAPTCHA Explained: v2 vs v3 vs Enterprise, Pricing, Scores and Every Key Type**](https://www.alekseialeinikov.com/en/blog/topics/security/google-recaptcha-v2-vs-v3-vs-enterprise-guide) &nbsp;·&nbsp; <sub>Oct 9, 2026</sub>
-- [**Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5: 20× Cheaper Than Sonnet — and a 100K-Token Price Cliff**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Oct 8, 2026</sub>
-- [**shadcn/ui vs MUI vs Mantine: I Built the Same Screen Five Ways and Measured It**](https://www.alekseialeinikov.com/en/blog/topics/programming/shadcn-ui-vs-mui-vs-mantine) &nbsp;·&nbsp; <sub>Oct 7, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5: 20× Cheaper Than Sonnet — and a 100K-Token Price Cliff**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5) &nbsp;·&nbsp; <sub>Oct 8, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
