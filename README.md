@@ -32,6 +32,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ![Security Champion](https://img.shields.io/badge/Google_Cloud_Security-Champion-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
 ![CCSK](https://img.shields.io/badge/CSA-CCSK_v5-7D3C98?style=flat-square&logoColor=white)
 ![CCZT](https://img.shields.io/badge/CSA-CCZT-7D3C98?style=flat-square&logoColor=white)
+![TAISE](https://img.shields.io/badge/CSA-TAISE-7D3C98?style=flat-square&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Partner_Accredited-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
