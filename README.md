@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**PostgreSQL Indexes: Which Type to Use &lpar;10M-Row Benchmark&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-index-types-which-to-use-btree-gin-brin-benchmark) &nbsp;·&nbsp; <sub>Oct 23, 2026</sub>
 - [**AI Gateway &lpar;LLM Gateway&rpar; Explained: What It Does, When You Need One and What It Costs**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-gateway-llm-gateway-explained-latency-benchmark) &nbsp;·&nbsp; <sub>Oct 22, 2026</sub>
 - [**TypeScript 7 vs TypeScript 6: What Changed, What Breaks and How to Upgrade**](https://www.alekseialeinikov.com/en/blog/topics/programming/typescript-7-vs-typescript-6-native-compiler-upgrade-guide) &nbsp;·&nbsp; <sub>Oct 21, 2026</sub>
 - [**DuckDB Explained: When a Database on Your Laptop Beats SQLite, Polars and BigQuery**](https://www.alekseialeinikov.com/en/blog/topics/data/duckdb-explained-vs-sqlite-polars-bigquery) &nbsp;·&nbsp; <sub>Oct 20, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**NIS2 for Cloud Teams, Part 1: Requirements Checklist for AWS, Azure and Google Cloud**](https://www.alekseialeinikov.com/en/blog/topics/security/nis2-compliance-checklist-aws-azure-google-cloud) &nbsp;·&nbsp; <sub>Oct 15, 2026</sub>
 - [**OpenTelemetry Explained: Traces, Metrics, Logs and the Collector**](https://www.alekseialeinikov.com/en/blog/topics/devops/opentelemetry-explained-collector-otlp-tracing) &nbsp;·&nbsp; <sub>Oct 14, 2026</sub>
 - [**Webhooks Explained: How They Work, How to Secure Them, How to Scale Them**](https://www.alekseialeinikov.com/en/blog/topics/architecture/webhooks-explained-signatures-retries-idempotency) &nbsp;·&nbsp; <sub>Oct 13, 2026</sub>
-- [**Mistral Large 4 vs Kolibri vs Beam: Three Open-Weight LLMs in Four Days — Which One to Self-Host**](https://www.alekseialeinikov.com/en/blog/topics/ai/mistral-large-4-vs-kolibri-vs-beam-open-weight-llm) &nbsp;·&nbsp; <sub>Oct 12, 2026</sub>
-- [**Google reCAPTCHA Explained: v2 vs v3 vs Enterprise, Pricing, Scores and Every Key Type**](https://www.alekseialeinikov.com/en/blog/topics/security/google-recaptcha-v2-vs-v3-vs-enterprise-guide) &nbsp;·&nbsp; <sub>Oct 9, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Mistral Large 4 vs Kolibri vs Beam: Three Open-Weight LLMs in Four Days — Which One to Self-Host**](https://www.alekseialeinikov.com/en/blog/topics/ai/mistral-large-4-vs-kolibri-vs-beam-open-weight-llm) &nbsp;·&nbsp; <sub>Oct 12, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
