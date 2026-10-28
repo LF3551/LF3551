@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Tailscale vs WireGuard: What the Control Plane Buys You, and What the SSH Flaws Cost**](https://www.alekseialeinikov.com/en/blog/topics/security/tailscale-vs-wireguard) &nbsp;·&nbsp; <sub>Oct 28, 2026</sub>
 - [**GPT-6.1 Terra vs Claude Sonnet 5.5 vs GPT-6.1 Sol: Half the Price per Token Is Not Half the Bill**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-terra-vs-claude-sonnet-5-5-vs-gpt-6-1-sol) &nbsp;·&nbsp; <sub>Oct 27, 2026</sub>
 - [**JWT Explained: What a JSON Web Token Is and How It Breaks**](https://www.alekseialeinikov.com/en/blog/topics/security/jwt-explained-json-web-token) &nbsp;·&nbsp; <sub>Oct 26, 2026</sub>
 - [**PostgreSQL Indexes: Which Type to Use &lpar;10M-Row Benchmark&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-index-types-which-to-use-btree-gin-brin-benchmark) &nbsp;·&nbsp; <sub>Oct 23, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**DuckDB Explained: When a Database on Your Laptop Beats SQLite, Polars and BigQuery**](https://www.alekseialeinikov.com/en/blog/topics/data/duckdb-explained-vs-sqlite-polars-bigquery) &nbsp;·&nbsp; <sub>Oct 20, 2026</sub>
 - [**The Outbox Pattern: Reliable Events Without Distributed Transactions**](https://www.alekseialeinikov.com/en/blog/topics/architecture/transactional-outbox-pattern) &nbsp;·&nbsp; <sub>Oct 19, 2026</sub>
 - [**Muse Spark Open vs GLM 5.3 vs Kimi K3: Meta&#39;s Open Model Isn&#39;t the Smartest. It&#39;s the Cheapest to Run**](https://www.alekseialeinikov.com/en/blog/topics/ai/muse-spark-open-vs-glm-5-3-vs-kimi-k3) &nbsp;·&nbsp; <sub>Oct 16, 2026</sub>
-- [**NIS2 for Cloud Teams, Part 1: Requirements Checklist for AWS, Azure and Google Cloud**](https://www.alekseialeinikov.com/en/blog/topics/security/nis2-compliance-checklist-aws-azure-google-cloud) &nbsp;·&nbsp; <sub>Oct 15, 2026</sub>
-- [**OpenTelemetry Explained: Traces, Metrics, Logs and the Collector**](https://www.alekseialeinikov.com/en/blog/topics/devops/opentelemetry-explained-collector-otlp-tracing) &nbsp;·&nbsp; <sub>Oct 14, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**NIS2 for Cloud Teams, Part 1: Requirements Checklist for AWS, Azure and Google Cloud**](https://www.alekseialeinikov.com/en/blog/topics/security/nis2-compliance-checklist-aws-azure-google-cloud) &nbsp;·&nbsp; <sub>Oct 15, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
