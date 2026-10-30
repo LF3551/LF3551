@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Gemini 4 Carbon Review: Benchmarks, Price, Access and Who It Is Actually For**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-carbon-review-benchmarks-price-access) &nbsp;·&nbsp; <sub>Oct 30, 2026</sub>
 - [**Ghidra MCP vs REA: How AI Agents Reverse Engineer Software, and What the Setup Changes on Your Machine**](https://www.alekseialeinikov.com/en/blog/topics/security/ghidra-mcp-vs-rea-ai-reverse-engineering) &nbsp;·&nbsp; <sub>Oct 29, 2026</sub>
 - [**Tailscale vs WireGuard: What the Control Plane Buys You, and What the SSH Flaws Cost**](https://www.alekseialeinikov.com/en/blog/topics/security/tailscale-vs-wireguard) &nbsp;·&nbsp; <sub>Oct 28, 2026</sub>
 - [**GPT-6.1 Terra vs Claude Sonnet 5.5 vs GPT-6.1 Sol: Half the Price per Token Is Not Half the Bill**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-terra-vs-claude-sonnet-5-5-vs-gpt-6-1-sol) &nbsp;·&nbsp; <sub>Oct 27, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**AI Gateway &lpar;LLM Gateway&rpar; Explained: What It Does, When You Need One and What It Costs**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-gateway-llm-gateway-explained-latency-benchmark) &nbsp;·&nbsp; <sub>Oct 22, 2026</sub>
 - [**TypeScript 7 vs TypeScript 6: What Changed, What Breaks and How to Upgrade**](https://www.alekseialeinikov.com/en/blog/topics/programming/typescript-7-vs-typescript-6-native-compiler-upgrade-guide) &nbsp;·&nbsp; <sub>Oct 21, 2026</sub>
 - [**DuckDB Explained: When a Database on Your Laptop Beats SQLite, Polars and BigQuery**](https://www.alekseialeinikov.com/en/blog/topics/data/duckdb-explained-vs-sqlite-polars-bigquery) &nbsp;·&nbsp; <sub>Oct 20, 2026</sub>
-- [**The Outbox Pattern: Reliable Events Without Distributed Transactions**](https://www.alekseialeinikov.com/en/blog/topics/architecture/transactional-outbox-pattern) &nbsp;·&nbsp; <sub>Oct 19, 2026</sub>
-- [**Muse Spark Open vs GLM 5.3 vs Kimi K3: Meta&#39;s Open Model Isn&#39;t the Smartest. It&#39;s the Cheapest to Run**](https://www.alekseialeinikov.com/en/blog/topics/ai/muse-spark-open-vs-glm-5-3-vs-kimi-k3) &nbsp;·&nbsp; <sub>Oct 16, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**The Outbox Pattern: Reliable Events Without Distributed Transactions**](https://www.alekseialeinikov.com/en/blog/topics/architecture/transactional-outbox-pattern) &nbsp;·&nbsp; <sub>Oct 19, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
