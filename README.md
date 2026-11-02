@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Navicat 18 Review: Is It Worth It for PostgreSQL? Tested on 10M Rows**](https://www.alekseialeinikov.com/en/blog/topics/data/navicat-18-review-honest-test-postgresql-10m-rows) &nbsp;·&nbsp; <sub>Nov 2, 2026</sub>
 - [**Gemini 4 Carbon Review: Benchmarks, Price, Access and Who It Is Actually For**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-carbon-review-benchmarks-price-access) &nbsp;·&nbsp; <sub>Oct 30, 2026</sub>
 - [**Ghidra MCP vs REA: How AI Agents Reverse Engineer Software, and What the Setup Changes on Your Machine**](https://www.alekseialeinikov.com/en/blog/topics/security/ghidra-mcp-vs-rea-ai-reverse-engineering) &nbsp;·&nbsp; <sub>Oct 29, 2026</sub>
 - [**Tailscale vs WireGuard: What the Control Plane Buys You, and What the SSH Flaws Cost**](https://www.alekseialeinikov.com/en/blog/topics/security/tailscale-vs-wireguard) &nbsp;·&nbsp; <sub>Oct 28, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**PostgreSQL Indexes: Which Type to Use &lpar;10M-Row Benchmark&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-index-types-which-to-use-btree-gin-brin-benchmark) &nbsp;·&nbsp; <sub>Oct 23, 2026</sub>
 - [**AI Gateway &lpar;LLM Gateway&rpar; Explained: What It Does, When You Need One and What It Costs**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-gateway-llm-gateway-explained-latency-benchmark) &nbsp;·&nbsp; <sub>Oct 22, 2026</sub>
 - [**TypeScript 7 vs TypeScript 6: What Changed, What Breaks and How to Upgrade**](https://www.alekseialeinikov.com/en/blog/topics/programming/typescript-7-vs-typescript-6-native-compiler-upgrade-guide) &nbsp;·&nbsp; <sub>Oct 21, 2026</sub>
-- [**DuckDB Explained: When a Database on Your Laptop Beats SQLite, Polars and BigQuery**](https://www.alekseialeinikov.com/en/blog/topics/data/duckdb-explained-vs-sqlite-polars-bigquery) &nbsp;·&nbsp; <sub>Oct 20, 2026</sub>
-- [**The Outbox Pattern: Reliable Events Without Distributed Transactions**](https://www.alekseialeinikov.com/en/blog/topics/architecture/transactional-outbox-pattern) &nbsp;·&nbsp; <sub>Oct 19, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**DuckDB Explained: When a Database on Your Laptop Beats SQLite, Polars and BigQuery**](https://www.alekseialeinikov.com/en/blog/topics/data/duckdb-explained-vs-sqlite-polars-bigquery) &nbsp;·&nbsp; <sub>Oct 20, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
