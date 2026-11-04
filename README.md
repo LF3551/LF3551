@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**mTLS vs TLS Explained: Two Identities, One Connection**](https://www.alekseialeinikov.com/en/blog/topics/security/mtls-vs-tls-explained) &nbsp;·&nbsp; <sub>Nov 4, 2026</sub>
 - [**DeepSeek V4.1 Flash Explained: The Memory Trick Behind Cheap Agents**](https://www.alekseialeinikov.com/en/blog/topics/ai/deepseek-v4-1-flash-1017-explained) &nbsp;·&nbsp; <sub>Nov 3, 2026</sub>
 - [**Navicat 18 Review: Is It Worth It for PostgreSQL? Tested on 10M Rows**](https://www.alekseialeinikov.com/en/blog/topics/data/navicat-18-review-honest-test-postgresql-10m-rows) &nbsp;·&nbsp; <sub>Nov 2, 2026</sub>
 - [**Gemini 4 Carbon Review: Benchmarks, Price, Access and Who It Is Actually For**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-carbon-review-benchmarks-price-access) &nbsp;·&nbsp; <sub>Oct 30, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**GPT-6.1 Terra vs Claude Sonnet 5.5 vs GPT-6.1 Sol: Half the Price per Token Is Not Half the Bill**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-terra-vs-claude-sonnet-5-5-vs-gpt-6-1-sol) &nbsp;·&nbsp; <sub>Oct 27, 2026</sub>
 - [**JWT Explained: What a JSON Web Token Is and How It Breaks**](https://www.alekseialeinikov.com/en/blog/topics/security/jwt-explained-json-web-token) &nbsp;·&nbsp; <sub>Oct 26, 2026</sub>
 - [**PostgreSQL Indexes: Which Type to Use &lpar;10M-Row Benchmark&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/data/postgres-index-types-which-to-use-btree-gin-brin-benchmark) &nbsp;·&nbsp; <sub>Oct 23, 2026</sub>
-- [**AI Gateway &lpar;LLM Gateway&rpar; Explained: What It Does, When You Need One and What It Costs**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-gateway-llm-gateway-explained-latency-benchmark) &nbsp;·&nbsp; <sub>Oct 22, 2026</sub>
-- [**TypeScript 7 vs TypeScript 6: What Changed, What Breaks and How to Upgrade**](https://www.alekseialeinikov.com/en/blog/topics/programming/typescript-7-vs-typescript-6-native-compiler-upgrade-guide) &nbsp;·&nbsp; <sub>Oct 21, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**AI Gateway &lpar;LLM Gateway&rpar; Explained: What It Does, When You Need One and What It Costs**](https://www.alekseialeinikov.com/en/blog/topics/ai/ai-gateway-llm-gateway-explained-latency-benchmark) &nbsp;·&nbsp; <sub>Oct 22, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
