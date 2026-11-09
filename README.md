@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**AI Agent Security: Your Assistant Has the Keys**](https://www.alekseialeinikov.com/en/blog/topics/security/ai-agent-security-trust-boundaries) &nbsp;·&nbsp; <sub>Nov 9, 2026</sub>
 - [**Nouswise vs NotebookLM: When Research Becomes a Workflow**](https://www.alekseialeinikov.com/en/blog/topics/ai/nouswise-vs-notebooklm) &nbsp;·&nbsp; <sub>Nov 6, 2026</sub>
 - [**Local LLMs for Cybersecurity: Choose the Brain, Limit Its Reach**](https://www.alekseialeinikov.com/en/blog/topics/security/local-llm-cybersecurity) &nbsp;·&nbsp; <sub>Nov 5, 2026</sub>
 - [**mTLS vs TLS Explained: Two Identities, One Connection**](https://www.alekseialeinikov.com/en/blog/topics/security/mtls-vs-tls-explained) &nbsp;·&nbsp; <sub>Nov 4, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**Gemini 4 Carbon Review: Benchmarks, Price, Access and Who It Is Actually For**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-carbon-review-benchmarks-price-access) &nbsp;·&nbsp; <sub>Oct 30, 2026</sub>
 - [**Ghidra MCP vs REA: How AI Agents Reverse Engineer Software, and What the Setup Changes on Your Machine**](https://www.alekseialeinikov.com/en/blog/topics/security/ghidra-mcp-vs-rea-ai-reverse-engineering) &nbsp;·&nbsp; <sub>Oct 29, 2026</sub>
 - [**Tailscale vs WireGuard: What the Control Plane Buys You, and What the SSH Flaws Cost**](https://www.alekseialeinikov.com/en/blog/topics/security/tailscale-vs-wireguard) &nbsp;·&nbsp; <sub>Oct 28, 2026</sub>
-- [**GPT-6.1 Terra vs Claude Sonnet 5.5 vs GPT-6.1 Sol: Half the Price per Token Is Not Half the Bill**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-terra-vs-claude-sonnet-5-5-vs-gpt-6-1-sol) &nbsp;·&nbsp; <sub>Oct 27, 2026</sub>
-- [**JWT Explained: What a JSON Web Token Is and How It Breaks**](https://www.alekseialeinikov.com/en/blog/topics/security/jwt-explained-json-web-token) &nbsp;·&nbsp; <sub>Oct 26, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**GPT-6.1 Terra vs Claude Sonnet 5.5 vs GPT-6.1 Sol: Half the Price per Token Is Not Half the Bill**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-terra-vs-claude-sonnet-5-5-vs-gpt-6-1-sol) &nbsp;·&nbsp; <sub>Oct 27, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
