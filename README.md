@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Argo CD vs Flux: Same Git, Different Control**](https://www.alekseialeinikov.com/en/blog/topics/devops/argo-cd-vs-flux) &nbsp;·&nbsp; <sub>Nov 10, 2026</sub>
 - [**AI Agent Security: Your Assistant Has the Keys**](https://www.alekseialeinikov.com/en/blog/topics/security/ai-agent-security-trust-boundaries) &nbsp;·&nbsp; <sub>Nov 9, 2026</sub>
 - [**Nouswise vs NotebookLM: When Research Becomes a Workflow**](https://www.alekseialeinikov.com/en/blog/topics/ai/nouswise-vs-notebooklm) &nbsp;·&nbsp; <sub>Nov 6, 2026</sub>
 - [**Local LLMs for Cybersecurity: Choose the Brain, Limit Its Reach**](https://www.alekseialeinikov.com/en/blog/topics/security/local-llm-cybersecurity) &nbsp;·&nbsp; <sub>Nov 5, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**Navicat 18 Review: Is It Worth It for PostgreSQL? Tested on 10M Rows**](https://www.alekseialeinikov.com/en/blog/topics/data/navicat-18-review-honest-test-postgresql-10m-rows) &nbsp;·&nbsp; <sub>Nov 2, 2026</sub>
 - [**Gemini 4 Carbon Review: Benchmarks, Price, Access and Who It Is Actually For**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-carbon-review-benchmarks-price-access) &nbsp;·&nbsp; <sub>Oct 30, 2026</sub>
 - [**Ghidra MCP vs REA: How AI Agents Reverse Engineer Software, and What the Setup Changes on Your Machine**](https://www.alekseialeinikov.com/en/blog/topics/security/ghidra-mcp-vs-rea-ai-reverse-engineering) &nbsp;·&nbsp; <sub>Oct 29, 2026</sub>
-- [**Tailscale vs WireGuard: What the Control Plane Buys You, and What the SSH Flaws Cost**](https://www.alekseialeinikov.com/en/blog/topics/security/tailscale-vs-wireguard) &nbsp;·&nbsp; <sub>Oct 28, 2026</sub>
-- [**GPT-6.1 Terra vs Claude Sonnet 5.5 vs GPT-6.1 Sol: Half the Price per Token Is Not Half the Bill**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-1-terra-vs-claude-sonnet-5-5-vs-gpt-6-1-sol) &nbsp;·&nbsp; <sub>Oct 27, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Tailscale vs WireGuard: What the Control Plane Buys You, and What the SSH Flaws Cost**](https://www.alekseialeinikov.com/en/blog/topics/security/tailscale-vs-wireguard) &nbsp;·&nbsp; <sub>Oct 28, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
