@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Claude Fable 5.2 and Mythos 5.2: Power, Price and Limits**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-fable-mythos-5-2-explained) &nbsp;·&nbsp; <sub>Nov 11, 2026</sub>
 - [**Argo CD vs Flux: Same Git, Different Control**](https://www.alekseialeinikov.com/en/blog/topics/devops/argo-cd-vs-flux) &nbsp;·&nbsp; <sub>Nov 10, 2026</sub>
 - [**AI Agent Security: Your Assistant Has the Keys**](https://www.alekseialeinikov.com/en/blog/topics/security/ai-agent-security-trust-boundaries) &nbsp;·&nbsp; <sub>Nov 9, 2026</sub>
 - [**Nouswise vs NotebookLM: When Research Becomes a Workflow**](https://www.alekseialeinikov.com/en/blog/topics/ai/nouswise-vs-notebooklm) &nbsp;·&nbsp; <sub>Nov 6, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**DeepSeek V4.1 Flash Explained: The Memory Trick Behind Cheap Agents**](https://www.alekseialeinikov.com/en/blog/topics/ai/deepseek-v4-1-flash-1017-explained) &nbsp;·&nbsp; <sub>Nov 3, 2026</sub>
 - [**Navicat 18 Review: Is It Worth It for PostgreSQL? Tested on 10M Rows**](https://www.alekseialeinikov.com/en/blog/topics/data/navicat-18-review-honest-test-postgresql-10m-rows) &nbsp;·&nbsp; <sub>Nov 2, 2026</sub>
 - [**Gemini 4 Carbon Review: Benchmarks, Price, Access and Who It Is Actually For**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-carbon-review-benchmarks-price-access) &nbsp;·&nbsp; <sub>Oct 30, 2026</sub>
-- [**Ghidra MCP vs REA: How AI Agents Reverse Engineer Software, and What the Setup Changes on Your Machine**](https://www.alekseialeinikov.com/en/blog/topics/security/ghidra-mcp-vs-rea-ai-reverse-engineering) &nbsp;·&nbsp; <sub>Oct 29, 2026</sub>
-- [**Tailscale vs WireGuard: What the Control Plane Buys You, and What the SSH Flaws Cost**](https://www.alekseialeinikov.com/en/blog/topics/security/tailscale-vs-wireguard) &nbsp;·&nbsp; <sub>Oct 28, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Ghidra MCP vs REA: How AI Agents Reverse Engineer Software, and What the Setup Changes on Your Machine**](https://www.alekseialeinikov.com/en/blog/topics/security/ghidra-mcp-vs-rea-ai-reverse-engineering) &nbsp;·&nbsp; <sub>Oct 29, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
