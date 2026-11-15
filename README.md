@@ -108,16 +108,16 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Gemini 4 Hydrogen vs Claude Opus 5.5: Speed, Quality and Cost Compared**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-hydrogen-vs-claude-opus-5-5) &nbsp;·&nbsp; <sub>Nov 15, 2026</sub>
+- [**NVIDIA DGX Spark Under the Hood: The 273 GB/s Reality of 128GB Local AI**](https://www.alekseialeinikov.com/en/blog/topics/lab/nvidia-dgx-spark-unified-memory-local-ai) &nbsp;·&nbsp; <sub>Nov 14, 2026</sub>
+- [**Starlink Mini 2 Explained: What the Battery Changes—and What It Doesn’t**](https://www.alekseialeinikov.com/en/blog/topics/lab/starlink-mini-2-battery-networking-explained) &nbsp;·&nbsp; <sub>Nov 14, 2026</sub>
 - [**Ansible vs Terraform: What to Learn and When to Use Both**](https://www.alekseialeinikov.com/en/blog/topics/devops/ansible-vs-terraform) &nbsp;·&nbsp; <sub>Nov 12, 2026</sub>
 - [**Claude Fable 5.2 and Mythos 5.2: Power, Price and Limits**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-fable-mythos-5-2-explained) &nbsp;·&nbsp; <sub>Nov 11, 2026</sub>
 - [**Argo CD vs Flux: Same Git, Different Control**](https://www.alekseialeinikov.com/en/blog/topics/devops/argo-cd-vs-flux) &nbsp;·&nbsp; <sub>Nov 10, 2026</sub>
 - [**AI Agent Security: Your Assistant Has the Keys**](https://www.alekseialeinikov.com/en/blog/topics/security/ai-agent-security-trust-boundaries) &nbsp;·&nbsp; <sub>Nov 9, 2026</sub>
 - [**Nouswise vs NotebookLM: When Research Becomes a Workflow**](https://www.alekseialeinikov.com/en/blog/topics/ai/nouswise-vs-notebooklm) &nbsp;·&nbsp; <sub>Nov 6, 2026</sub>
 - [**Local LLMs for Cybersecurity: Choose the Brain, Limit Its Reach**](https://www.alekseialeinikov.com/en/blog/topics/security/local-llm-cybersecurity) &nbsp;·&nbsp; <sub>Nov 5, 2026</sub>
-- [**mTLS vs TLS Explained: Two Identities, One Connection**](https://www.alekseialeinikov.com/en/blog/topics/security/mtls-vs-tls-explained) &nbsp;·&nbsp; <sub>Nov 4, 2026</sub>
-- [**DeepSeek V4.1 Flash Explained: The Memory Trick Behind Cheap Agents**](https://www.alekseialeinikov.com/en/blog/topics/ai/deepseek-v4-1-flash-1017-explained) &nbsp;·&nbsp; <sub>Nov 3, 2026</sub>
-- [**Navicat 18 Review: Is It Worth It for PostgreSQL? Tested on 10M Rows**](https://www.alekseialeinikov.com/en/blog/topics/data/navicat-18-review-honest-test-postgresql-10m-rows) &nbsp;·&nbsp; <sub>Nov 2, 2026</sub>
-- [**Gemini 4 Carbon Review: Benchmarks, Price, Access and Who It Is Actually For**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-carbon-review-benchmarks-price-access) &nbsp;·&nbsp; <sub>Oct 30, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**mTLS vs TLS Explained: Two Identities, One Connection**](https://www.alekseialeinikov.com/en/blog/topics/security/mtls-vs-tls-explained) &nbsp;·&nbsp; <sub>Nov 4, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
