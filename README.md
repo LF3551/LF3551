@@ -108,16 +108,16 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**AMD Strix Halo vs. NVIDIA DGX Spark vs. Apple Mac Studio: The 128 GB Local AI Reality**](https://www.alekseialeinikov.com/en/blog/topics/lab/amd-strix-halo-vs-nvidia-dgx-spark-vs-mac-studio) &nbsp;·&nbsp; <sub>Nov 18, 2026</sub>
+- [**GPT-6.2 Astra &amp; Sol: Is It Really an Opus Killer? Benchmarks, Pricing &amp; Verdict**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-2-astra-sol-vs-claude-opus-5-5) &nbsp;·&nbsp; <sub>Nov 18, 2026</sub>
+- [**Per-Seat SaaS Is Breaking: The New Build vs. Buy Math &amp; Vibe-Coding Trap**](https://www.alekseialeinikov.com/en/blog/topics/career/per-seat-saas-build-vs-buy-vibe-coding) &nbsp;·&nbsp; <sub>Nov 17, 2026</sub>
+- [**PostgreSQL in Docker for Production: Volumes, Shared Memory, Pooling &amp; Backups**](https://www.alekseialeinikov.com/en/blog/topics/data/postgresql-in-docker-production) &nbsp;·&nbsp; <sub>Nov 17, 2026</sub>
+- [**UGREEN DXP4800 Plus vs. TerraMaster F4-424 Max: Which 10GbE 4-Bay NAS Wins for TrueNAS &amp; Proxmox**](https://www.alekseialeinikov.com/en/blog/topics/lab/ugreen-dxp4800-plus-vs-terramaster-f4-424-max) &nbsp;·&nbsp; <sub>Nov 17, 2026</sub>
 - [**Google Cloud Budget Spend Caps: What They Actually Stop &lpar;and What Still Leaks&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/google-cloud-budget-spend-caps-what-they-actually-stop) &nbsp;·&nbsp; <sub>Nov 16, 2026</sub>
 - [**Proxmox VE vs. Docker vs. TrueNAS Scale: Which Home Server Stack Fits Your Hardware**](https://www.alekseialeinikov.com/en/blog/topics/lab/proxmox-vs-docker-vs-truenas-scale-home-server) &nbsp;·&nbsp; <sub>Nov 16, 2026</sub>
 - [**Gemini 4 Hydrogen vs Claude Opus 5.5: Speed, Quality and Cost Compared**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-hydrogen-vs-claude-opus-5-5) &nbsp;·&nbsp; <sub>Nov 15, 2026</sub>
 - [**NVIDIA DGX Spark Under the Hood: The 273 GB/s Reality of 128GB Local AI**](https://www.alekseialeinikov.com/en/blog/topics/lab/nvidia-dgx-spark-unified-memory-local-ai) &nbsp;·&nbsp; <sub>Nov 14, 2026</sub>
-- [**Starlink Mini 2 Explained: What the Battery Changes—and What It Doesn’t**](https://www.alekseialeinikov.com/en/blog/topics/lab/starlink-mini-2-battery-networking-explained) &nbsp;·&nbsp; <sub>Nov 14, 2026</sub>
-- [**Ansible vs Terraform: What to Learn and When to Use Both**](https://www.alekseialeinikov.com/en/blog/topics/devops/ansible-vs-terraform) &nbsp;·&nbsp; <sub>Nov 12, 2026</sub>
-- [**Claude Fable 5.2 and Mythos 5.2: Power, Price and Limits**](https://www.alekseialeinikov.com/en/blog/topics/ai/claude-fable-mythos-5-2-explained) &nbsp;·&nbsp; <sub>Nov 11, 2026</sub>
-- [**Argo CD vs Flux: Same Git, Different Control**](https://www.alekseialeinikov.com/en/blog/topics/devops/argo-cd-vs-flux) &nbsp;·&nbsp; <sub>Nov 10, 2026</sub>
-- [**AI Agent Security: Your Assistant Has the Keys**](https://www.alekseialeinikov.com/en/blog/topics/security/ai-agent-security-trust-boundaries) &nbsp;·&nbsp; <sub>Nov 9, 2026</sub>
-- [**Nouswise vs NotebookLM: When Research Becomes a Workflow**](https://www.alekseialeinikov.com/en/blog/topics/ai/nouswise-vs-notebooklm) &nbsp;·&nbsp; <sub>Nov 6, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Starlink Mini 2 Explained: What the Battery Changes—and What It Doesn’t**](https://www.alekseialeinikov.com/en/blog/topics/lab/starlink-mini-2-battery-networking-explained) &nbsp;·&nbsp; <sub>Nov 14, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
