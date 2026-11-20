@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Apple&#39;s Native Container Runtime &amp; Kubernetes on Mac: Complete DevOps Guide to container cluster**](https://www.alekseialeinikov.com/en/blog/topics/devops/apple-container-kubernetes-mac-cluster-guide) &nbsp;·&nbsp; <sub>Nov 19, 2026</sub>
 - [**Microsoft MAI Code 2 &amp; Maia 200: How Microsoft Built Its Own AI Stack — and What &#39;5% of Opus Cost&#39; Hides**](https://www.alekseialeinikov.com/en/blog/topics/ai/microsoft-mai-code-2-review-benchmarks-pricing) &nbsp;·&nbsp; <sub>Nov 19, 2026</sub>
 - [**Gemini 4 Neon Review: 61 Intelligence Index, 127 tok/s and $3/$15 vs Opus 5.5**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-neon-vs-claude-opus-5-5-hydrogen-carbon) &nbsp;·&nbsp; <sub>Nov 19, 2026</sub>
 - [**AMD Strix Halo vs. NVIDIA DGX Spark vs. Apple Mac Studio: The 128 GB Local AI Reality**](https://www.alekseialeinikov.com/en/blog/topics/lab/amd-strix-halo-vs-nvidia-dgx-spark-vs-mac-studio) &nbsp;·&nbsp; <sub>Nov 18, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**PostgreSQL in Docker for Production: Volumes, Shared Memory, Pooling &amp; Backups**](https://www.alekseialeinikov.com/en/blog/topics/data/postgresql-in-docker-production) &nbsp;·&nbsp; <sub>Nov 17, 2026</sub>
 - [**UGREEN DXP4800 Plus vs. TerraMaster F4-424 Max: Which 10GbE 4-Bay NAS Wins for TrueNAS &amp; Proxmox**](https://www.alekseialeinikov.com/en/blog/topics/lab/ugreen-dxp4800-plus-vs-terramaster-f4-424-max) &nbsp;·&nbsp; <sub>Nov 17, 2026</sub>
 - [**Google Cloud Budget Spend Caps: What They Actually Stop &lpar;and What Still Leaks&rpar;**](https://www.alekseialeinikov.com/en/blog/topics/cloud/google-cloud-budget-spend-caps-what-they-actually-stop) &nbsp;·&nbsp; <sub>Nov 16, 2026</sub>
-- [**Proxmox VE vs. Docker vs. TrueNAS Scale: Which Home Server Stack Fits Your Hardware**](https://www.alekseialeinikov.com/en/blog/topics/lab/proxmox-vs-docker-vs-truenas-scale-home-server) &nbsp;·&nbsp; <sub>Nov 16, 2026</sub>
-- [**Gemini 4 Hydrogen vs Claude Opus 5.5: Speed, Quality and Cost Compared**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-hydrogen-vs-claude-opus-5-5) &nbsp;·&nbsp; <sub>Nov 15, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Proxmox VE vs. Docker vs. TrueNAS Scale: Which Home Server Stack Fits Your Hardware**](https://www.alekseialeinikov.com/en/blog/topics/lab/proxmox-vs-docker-vs-truenas-scale-home-server) &nbsp;·&nbsp; <sub>Nov 16, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
