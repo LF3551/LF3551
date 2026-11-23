@@ -108,6 +108,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**Inkling 2 Mini &amp; Looped Transformers: Architecture, Benchmarks &amp; Local Setup**](https://www.alekseialeinikov.com/en/blog/topics/ai/inkling-2-mini-looped-transformers-local-ai-guide) &nbsp;·&nbsp; <sub>Nov 23, 2026</sub>
 - [**JetKVM vs PiKVM vs NanoKVM: Hardware IP-KVM Comparison, Latency &amp; Security**](https://www.alekseialeinikov.com/en/blog/topics/lab/jetkvm-vs-pikvm-vs-nanokvm-ip-kvm-guide) &nbsp;·&nbsp; <sub>Nov 21, 2026</sub>
 - [**Valkey vs Redis: B+Tree Sorted Sets, 43% Less Memory &amp; Production Migration**](https://www.alekseialeinikov.com/en/blog/topics/data/valkey-vs-redis-btree-memory-migration-guide) &nbsp;·&nbsp; <sub>Nov 21, 2026</sub>
 - [**PostgreSQL 19 vs 18: Native REPACK, pg_plan_advice, Graph Myth &amp; Production Upgrade Guide**](https://www.alekseialeinikov.com/en/blog/topics/data/postgresql-19-vs-18-features-performance-upgrade-guide) &nbsp;·&nbsp; <sub>Nov 20, 2026</sub>
@@ -116,8 +117,7 @@ Currently designing and operating production GCP platforms in an enterprise envi
 - [**Gemini 4 Neon Review: 61 Intelligence Index, 127 tok/s and $3/$15 vs Opus 5.5**](https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-neon-vs-claude-opus-5-5-hydrogen-carbon) &nbsp;·&nbsp; <sub>Nov 19, 2026</sub>
 - [**AMD Strix Halo vs. NVIDIA DGX Spark vs. Apple Mac Studio: The 128 GB Local AI Reality**](https://www.alekseialeinikov.com/en/blog/topics/lab/amd-strix-halo-vs-nvidia-dgx-spark-vs-mac-studio) &nbsp;·&nbsp; <sub>Nov 18, 2026</sub>
 - [**GPT-6.2 Astra &amp; Sol: Is It Really an Opus Killer? Benchmarks, Pricing &amp; Verdict**](https://www.alekseialeinikov.com/en/blog/topics/ai/gpt-6-2-astra-sol-vs-claude-opus-5-5) &nbsp;·&nbsp; <sub>Nov 18, 2026</sub>
-- [**Per-Seat SaaS Is Breaking: The New Build vs. Buy Math &amp; Vibe-Coding Trap**](https://www.alekseialeinikov.com/en/blog/topics/career/per-seat-saas-build-vs-buy-vibe-coding) &nbsp;·&nbsp; <sub>Nov 17, 2026</sub>
-- [**PostgreSQL in Docker for Production: Volumes, Shared Memory, Pooling &amp; Backups**](https://www.alekseialeinikov.com/en/blog/topics/data/postgresql-in-docker-production) &nbsp;·&nbsp; <sub>Nov 17, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**Per-Seat SaaS Is Breaking: The New Build vs. Buy Math &amp; Vibe-Coding Trap**](https://www.alekseialeinikov.com/en/blog/topics/career/per-seat-saas-build-vs-buy-vibe-coding) &nbsp;·&nbsp; <sub>Nov 17, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
