@@ -108,16 +108,16 @@ Currently designing and operating production GCP platforms in an enterprise envi
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [**CQRS Pattern Explained: CQRS vs. Event Sourcing &amp; 3 Levels of Complexity**](https://www.alekseialeinikov.com/en/blog/topics/architecture/cqrs-pattern-and-event-sourcing) &nbsp;·&nbsp; <sub>Nov 26, 2026</sub>
+- [**384 GB Local AI Cluster via USB4? AMD Ryzen AI Max+ PRO 495 &amp; Windows RDMA Explained**](https://www.alekseialeinikov.com/en/blog/topics/lab/amd-ryzen-ai-max-pro-495-rdma-usb4-local-ai-cluster) &nbsp;·&nbsp; <sub>Nov 26, 2026</sub>
+- [**MongoDB in Docker for Production: Replica Sets, WiredTiger, Auth &amp; Backups**](https://www.alekseialeinikov.com/en/blog/topics/data/mongodb-in-docker-production) &nbsp;·&nbsp; <sub>Nov 26, 2026</sub>
 - [**Go 1.27 Web APIs: Chi + net/http vs Gin vs Fiber v3**](https://www.alekseialeinikov.com/en/blog/topics/programming/go-1-27-chi-net-http-vs-gin-vs-fiber-benchmark) &nbsp;·&nbsp; <sub>Nov 25, 2026</sub>
 - [**Hono vs Express vs Fastify: Node.js 26 Benchmark &amp; Trade-offs**](https://www.alekseialeinikov.com/en/blog/topics/programming/hono-vs-express-vs-fastify-benchmark) &nbsp;·&nbsp; <sub>Nov 25, 2026</sub>
 - [**GLM-5.4 Explained: Z.ai&#39;s Loop Transformer, Vision Coding Plan, and the Missing Benchmarks**](https://www.alekseialeinikov.com/en/blog/topics/ai/glm-5-4-explained-loop-transformer-coding-plan) &nbsp;·&nbsp; <sub>Nov 24, 2026</sub>
 - [**PostgreSQL VACUUM &amp; Bloat: Dead Tuples, HOT Updates &amp; Compaction**](https://www.alekseialeinikov.com/en/blog/topics/data/postgresql-vacuum-and-bloat-production-guide) &nbsp;·&nbsp; <sub>Nov 24, 2026</sub>
 - [**TanStack Start 1.0 vs Next.js: Explicit Type Safety vs Framework Magic**](https://www.alekseialeinikov.com/en/blog/topics/programming/tanstack-start-1-vs-nextjs-architecture-comparison) &nbsp;·&nbsp; <sub>Nov 24, 2026</sub>
 - [**Inkling 2 Mini &amp; Looped Transformers: Architecture, Benchmarks &amp; Local Setup**](https://www.alekseialeinikov.com/en/blog/topics/ai/inkling-2-mini-looped-transformers-local-ai-guide) &nbsp;·&nbsp; <sub>Nov 23, 2026</sub>
-- [**JetKVM vs PiKVM vs NanoKVM: Hardware IP-KVM Comparison, Latency &amp; Security**](https://www.alekseialeinikov.com/en/blog/topics/lab/jetkvm-vs-pikvm-vs-nanokvm-ip-kvm-guide) &nbsp;·&nbsp; <sub>Nov 21, 2026</sub>
-- [**Valkey vs Redis: B+Tree Sorted Sets, 43% Less Memory &amp; Production Migration**](https://www.alekseialeinikov.com/en/blog/topics/data/valkey-vs-redis-btree-memory-migration-guide) &nbsp;·&nbsp; <sub>Nov 21, 2026</sub>
-- [**PostgreSQL 19 vs 18: Native REPACK, pg_plan_advice, Graph Myth &amp; Production Upgrade Guide**](https://www.alekseialeinikov.com/en/blog/topics/data/postgresql-19-vs-18-features-performance-upgrade-guide) &nbsp;·&nbsp; <sub>Nov 20, 2026</sub>
-- [**Apple&#39;s Native Container Runtime &amp; Kubernetes on Mac: Complete DevOps Guide to container cluster**](https://www.alekseialeinikov.com/en/blog/topics/devops/apple-container-kubernetes-mac-cluster-guide) &nbsp;·&nbsp; <sub>Nov 19, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [**JetKVM vs PiKVM vs NanoKVM: Hardware IP-KVM Comparison, Latency &amp; Security**](https://www.alekseialeinikov.com/en/blog/topics/lab/jetkvm-vs-pikvm-vs-nanokvm-ip-kvm-guide) &nbsp;·&nbsp; <sub>Nov 21, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
